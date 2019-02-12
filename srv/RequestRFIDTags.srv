@@ -1,0 +1,5 @@
+bool req
+---
+bool rfid_map_set
+RFIDTag[] rfid_tags
+std_msgs/String rssi_map_path

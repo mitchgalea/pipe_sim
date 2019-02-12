@@ -1,0 +1,10 @@
+bool straight
+geometry_msgs/Pose2D centre
+geometry_msgs/Pose2D start
+geometry_msgs/Pose2D end
+float64 radius
+float64 distance
+float64 rotate_angle
+float64 angle
+float64 diameter
+float64 pipe_thickness

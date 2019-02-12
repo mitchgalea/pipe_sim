@@ -1,0 +1,10 @@
+InitialPose:
+  x: 0.0
+  y: 0.0
+  theta: 0.0
+Diameter: 0.1
+PipeThickness: 0.01
+PipeLineSegments:
+  - radius: 0.0
+    distance: 4.0
+

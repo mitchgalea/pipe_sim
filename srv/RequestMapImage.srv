@@ -1,0 +1,8 @@
+bool req
+---
+bool ack
+sensor_msgs/Image map_image
+geometry_msgs/Pose2D min_point
+geometry_msgs/Pose2D max_point
+float64 offset
+float64 resolution

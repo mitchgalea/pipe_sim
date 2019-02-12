@@ -1,0 +1,3338 @@
+Name: test
+TagRSSIMaps:
+  - EPC: 1764989239
+    Points:
+      - RSSI: -30
+        Distance: 0
+        Variance: 5
+      - RSSI: -28.5025
+        Distance: 0.1
+        Variance: 5
+      - RSSI: -27.02
+        Distance: 0.2
+        Variance: 5
+      - RSSI: -25.5672
+        Distance: 0.3
+        Variance: 5
+      - RSSI: -24.1587
+        Distance: 0.4
+        Variance: 5
+      - RSSI: -22.8086
+        Distance: 0.5
+        Variance: 5
+      - RSSI: -21.5304
+        Distance: 0.6
+        Variance: 5
+      - RSSI: -20.3367
+        Distance: 0.7
+        Variance: 5
+      - RSSI: -19.2397
+        Distance: 0.8
+        Variance: 5
+      - RSSI: -18.2501
+        Distance: 0.9
+        Variance: 5
+      - RSSI: -17.3779
+        Distance: 1
+        Variance: 5
+      - RSSI: -16.6319
+        Distance: 1.1
+        Variance: 5
+      - RSSI: -16.0194
+        Distance: 1.2
+        Variance: 5
+      - RSSI: -15.5466
+        Distance: 1.3
+        Variance: 5
+      - RSSI: -15.2183
+        Distance: 1.4
+        Variance: 5
+      - RSSI: -15.0376
+        Distance: 1.5
+        Variance: 5
+      - RSSI: -15.0064
+        Distance: 1.6
+        Variance: 5
+      - RSSI: -15.125
+        Distance: 1.7
+        Variance: 5
+      - RSSI: -15.3923
+        Distance: 1.8
+        Variance: 5
+      - RSSI: -15.8055
+        Distance: 1.9
+        Variance: 5
+      - RSSI: -16.3605
+        Distance: 2
+        Variance: 5
+      - RSSI: -17.0519
+        Distance: 2.1
+        Variance: 5
+      - RSSI: -17.8726
+        Distance: 2.2
+        Variance: 5
+      - RSSI: -18.8144
+        Distance: 2.3
+        Variance: 5
+      - RSSI: -19.8681
+        Distance: 2.4
+        Variance: 5
+      - RSSI: -21.0229
+        Distance: 2.5
+        Variance: 5
+      - RSSI: -22.2675
+        Distance: 2.6
+        Variance: 5
+      - RSSI: -23.5893
+        Distance: 2.7
+        Variance: 5
+      - RSSI: -24.9752
+        Distance: 2.8
+        Variance: 5
+      - RSSI: -26.4113
+        Distance: 2.9
+        Variance: 5
+      - RSSI: -27.8832
+        Distance: 3
+        Variance: 5
+      - RSSI: -29.3763
+        Distance: 3.1
+        Variance: 5
+      - RSSI: -30.8756
+        Distance: 3.2
+        Variance: 5
+      - RSSI: -32.3662
+        Distance: 3.3
+        Variance: 5
+      - RSSI: -33.8331
+        Distance: 3.4
+        Variance: 5
+      - RSSI: -35.2617
+        Distance: 3.5
+        Variance: 5
+      - RSSI: -36.6378
+        Distance: 3.6
+        Variance: 5
+      - RSSI: -37.9475
+        Distance: 3.7
+        Variance: 5
+      - RSSI: -39.1779
+        Distance: 3.8
+        Variance: 5
+      - RSSI: -40.3165
+        Distance: 3.9
+        Variance: 5
+      - RSSI: -41.352
+        Distance: 4
+        Variance: 5
+      - RSSI: -42.2742
+        Distance: 4.1
+        Variance: 5
+      - RSSI: -43.0736
+        Distance: 4.2
+        Variance: 5
+      - RSSI: -43.7425
+        Distance: 4.3
+        Variance: 5
+      - RSSI: -44.274
+        Distance: 4.4
+        Variance: 5
+      - RSSI: -44.663
+        Distance: 4.5
+        Variance: 5
+      - RSSI: -44.9054
+        Distance: 4.6
+        Variance: 5
+      - RSSI: -44.9988
+        Distance: 4.7
+        Variance: 5
+      - RSSI: -44.9425
+        Distance: 4.8
+        Variance: 5
+      - RSSI: -44.7368
+        Distance: 4.9
+        Variance: 5
+      - RSSI: -44.3839
+        Distance: 5
+        Variance: 5
+      - RSSI: -43.8872
+        Distance: 5.1
+        Variance: 5
+      - RSSI: -43.2518
+        Distance: 5.2
+        Variance: 5
+      - RSSI: -42.484
+        Distance: 5.3
+        Variance: 5
+      - RSSI: -41.5915
+        Distance: 5.4
+        Variance: 5
+      - RSSI: -40.5831
+        Distance: 5.5
+        Variance: 5
+      - RSSI: -39.469
+        Distance: 5.6
+        Variance: 5
+      - RSSI: -38.2603
+        Distance: 5.7
+        Variance: 5
+      - RSSI: -36.969
+        Distance: 5.8
+        Variance: 5
+      - RSSI: -35.6081
+        Distance: 5.9
+        Variance: 5
+      - RSSI: -34.1912
+        Distance: 6
+        Variance: 5
+      - RSSI: -32.7324
+        Distance: 6.1
+        Variance: 5
+      - RSSI: -31.2463
+        Distance: 6.2
+        Variance: 5
+      - RSSI: -29.7478
+        Distance: 6.3
+        Variance: 5
+      - RSSI: -28.2518
+        Distance: 6.4
+        Variance: 5
+      - RSSI: -26.7732
+        Distance: 6.5
+        Variance: 5
+      - RSSI: -25.3269
+        Distance: 6.6
+        Variance: 5
+      - RSSI: -23.9273
+        Distance: 6.7
+        Variance: 5
+      - RSSI: -22.5883
+        Distance: 6.8
+        Variance: 5
+      - RSSI: -21.3234
+        Distance: 6.9
+        Variance: 5
+      - RSSI: -20.1452
+        Distance: 7
+        Variance: 5
+      - RSSI: -19.0655
+        Distance: 7.1
+        Variance: 5
+      - RSSI: -18.095
+        Distance: 7.2
+        Variance: 5
+      - RSSI: -17.2435
+        Distance: 7.3
+        Variance: 5
+      - RSSI: -16.5194
+        Distance: 7.4
+        Variance: 5
+      - RSSI: -15.93
+        Distance: 7.5
+        Variance: 5
+      - RSSI: -15.4812
+        Distance: 7.6
+        Variance: 5
+      - RSSI: -15.1775
+        Distance: 7.7
+        Variance: 5
+      - RSSI: -15.0218
+        Distance: 7.8
+        Variance: 5
+      - RSSI: -15.0159
+        Distance: 7.9
+        Variance: 5
+      - RSSI: -15.1596
+        Distance: 8
+        Variance: 5
+      - RSSI: -15.4517
+        Distance: 8.1
+        Variance: 5
+      - RSSI: -15.889
+        Distance: 8.2
+        Variance: 5
+      - RSSI: -16.4674
+        Distance: 8.3
+        Variance: 5
+      - RSSI: -17.181
+        Distance: 8.4
+        Variance: 5
+      - RSSI: -18.0227
+        Distance: 8.5
+        Variance: 5
+      - RSSI: -18.984
+        Distance: 8.6
+        Variance: 5
+      - RSSI: -20.0555
+        Distance: 8.7
+        Variance: 5
+      - RSSI: -21.2262
+        Distance: 8.8
+        Variance: 5
+      - RSSI: -22.4847
+        Distance: 8.9
+        Variance: 5
+      - RSSI: -23.8182
+        Distance: 9
+        Variance: 5
+      - RSSI: -25.2135
+        Distance: 9.1
+        Variance: 5
+      - RSSI: -26.6567
+        Distance: 9.2
+        Variance: 5
+      - RSSI: -28.1332
+        Distance: 9.3
+        Variance: 5
+      - RSSI: -29.6284
+        Distance: 9.4
+        Variance: 5
+      - RSSI: -31.1273
+        Distance: 9.5
+        Variance: 5
+      - RSSI: -32.6149
+        Distance: 9.6
+        Variance: 5
+      - RSSI: -34.0764
+        Distance: 9.7
+        Variance: 5
+      - RSSI: -35.4972
+        Distance: 9.8
+        Variance: 5
+      - RSSI: -36.863
+        Distance: 9.9
+        Variance: 5
+      - RSSI: -38.1603
+        Distance: 10
+        Variance: 5
+  - EPC: 359404381
+    Points:
+      - RSSI: -39.5892
+        Distance: 5
+        Variance: 5
+      - RSSI: -39.2581
+        Distance: 5.1
+        Variance: 5
+      - RSSI: -38.8345
+        Distance: 5.2
+        Variance: 5
+      - RSSI: -38.3227
+        Distance: 5.3
+        Variance: 5
+      - RSSI: -37.7276
+        Distance: 5.4
+        Variance: 5
+      - RSSI: -37.0554
+        Distance: 5.5
+        Variance: 5
+      - RSSI: -36.3127
+        Distance: 5.6
+        Variance: 5
+      - RSSI: -35.5069
+        Distance: 5.7
+        Variance: 5
+      - RSSI: -34.646
+        Distance: 5.8
+        Variance: 5
+      - RSSI: -33.7388
+        Distance: 5.9
+        Variance: 5
+      - RSSI: -32.7942
+        Distance: 6
+        Variance: 5
+      - RSSI: -31.8216
+        Distance: 6.1
+        Variance: 5
+      - RSSI: -30.8309
+        Distance: 6.2
+        Variance: 5
+      - RSSI: -29.8319
+        Distance: 6.3
+        Variance: 5
+      - RSSI: -28.8345
+        Distance: 6.4
+        Variance: 5
+      - RSSI: -27.8488
+        Distance: 6.5
+        Variance: 5
+      - RSSI: -26.8846
+        Distance: 6.6
+        Variance: 5
+      - RSSI: -25.9515
+        Distance: 6.7
+        Variance: 5
+      - RSSI: -25.0589
+        Distance: 6.8
+        Variance: 5
+      - RSSI: -24.2156
+        Distance: 6.9
+        Variance: 5
+      - RSSI: -23.4301
+        Distance: 7
+        Variance: 5
+      - RSSI: -22.7103
+        Distance: 7.1
+        Variance: 5
+      - RSSI: -22.0633
+        Distance: 7.2
+        Variance: 5
+      - RSSI: -21.4956
+        Distance: 7.3
+        Variance: 5
+      - RSSI: -21.0129
+        Distance: 7.4
+        Variance: 5
+      - RSSI: -20.62
+        Distance: 7.5
+        Variance: 5
+      - RSSI: -20.3208
+        Distance: 7.6
+        Variance: 5
+      - RSSI: -20.1183
+        Distance: 7.7
+        Variance: 5
+      - RSSI: -20.0146
+        Distance: 7.8
+        Variance: 5
+      - RSSI: -20.0106
+        Distance: 7.9
+        Variance: 5
+      - RSSI: -20.1064
+        Distance: 8
+        Variance: 5
+      - RSSI: -20.3011
+        Distance: 8.1
+        Variance: 5
+      - RSSI: -20.5927
+        Distance: 8.2
+        Variance: 5
+      - RSSI: -20.9783
+        Distance: 8.3
+        Variance: 5
+      - RSSI: -21.454
+        Distance: 8.4
+        Variance: 5
+      - RSSI: -22.0151
+        Distance: 8.5
+        Variance: 5
+      - RSSI: -22.656
+        Distance: 8.6
+        Variance: 5
+      - RSSI: -23.3703
+        Distance: 8.7
+        Variance: 5
+      - RSSI: -24.1508
+        Distance: 8.8
+        Variance: 5
+      - RSSI: -24.9898
+        Distance: 8.9
+        Variance: 5
+      - RSSI: -25.8788
+        Distance: 9
+        Variance: 5
+      - RSSI: -26.809
+        Distance: 9.1
+        Variance: 5
+      - RSSI: -27.7711
+        Distance: 9.2
+        Variance: 5
+      - RSSI: -28.7555
+        Distance: 9.3
+        Variance: 5
+      - RSSI: -29.7522
+        Distance: 9.4
+        Variance: 5
+      - RSSI: -30.7515
+        Distance: 9.5
+        Variance: 5
+      - RSSI: -31.7433
+        Distance: 9.6
+        Variance: 5
+      - RSSI: -32.7176
+        Distance: 9.7
+        Variance: 5
+      - RSSI: -33.6648
+        Distance: 9.8
+        Variance: 5
+      - RSSI: -34.5754
+        Distance: 9.9
+        Variance: 5
+      - RSSI: -35.4402
+        Distance: 10
+        Variance: 5
+      - RSSI: -36.2507
+        Distance: 10.1
+        Variance: 5
+      - RSSI: -36.9987
+        Distance: 10.2
+        Variance: 5
+      - RSSI: -37.6769
+        Distance: 10.3
+        Variance: 5
+      - RSSI: -38.2783
+        Distance: 10.4
+        Variance: 5
+      - RSSI: -38.797
+        Distance: 10.5
+        Variance: 5
+      - RSSI: -39.2278
+        Distance: 10.6
+        Variance: 5
+      - RSSI: -39.5664
+        Distance: 10.7
+        Variance: 5
+      - RSSI: -39.8094
+        Distance: 10.8
+        Variance: 5
+      - RSSI: -39.9544
+        Distance: 10.9
+        Variance: 5
+      - RSSI: -39.9999
+        Distance: 11
+        Variance: 5
+      - RSSI: -39.9455
+        Distance: 11.1
+        Variance: 5
+      - RSSI: -39.7918
+        Distance: 11.2
+        Variance: 5
+      - RSSI: -39.5402
+        Distance: 11.3
+        Variance: 5
+      - RSSI: -39.1933
+        Distance: 11.4
+        Variance: 5
+      - RSSI: -38.7545
+        Distance: 11.5
+        Variance: 5
+      - RSSI: -38.2283
+        Distance: 11.6
+        Variance: 5
+      - RSSI: -37.6198
+        Distance: 11.7
+        Variance: 5
+      - RSSI: -36.9353
+        Distance: 11.8
+        Variance: 5
+      - RSSI: -36.1814
+        Distance: 11.9
+        Variance: 5
+      - RSSI: -35.3657
+        Distance: 12
+        Variance: 5
+      - RSSI: -34.4965
+        Distance: 12.1
+        Variance: 5
+      - RSSI: -33.5823
+        Distance: 12.2
+        Variance: 5
+      - RSSI: -32.6323
+        Distance: 12.3
+        Variance: 5
+      - RSSI: -31.656
+        Distance: 12.4
+        Variance: 5
+      - RSSI: -30.6632
+        Distance: 12.5
+        Variance: 5
+      - RSSI: -29.6638
+        Distance: 12.6
+        Variance: 5
+      - RSSI: -28.6677
+        Distance: 12.7
+        Variance: 5
+      - RSSI: -27.6849
+        Distance: 12.8
+        Variance: 5
+      - RSSI: -26.7253
+        Distance: 12.9
+        Variance: 5
+      - RSSI: -25.7983
+        Distance: 13
+        Variance: 5
+      - RSSI: -24.9134
+        Distance: 13.1
+        Variance: 5
+      - RSSI: -24.0793
+        Distance: 13.2
+        Variance: 5
+      - RSSI: -23.3043
+        Distance: 13.3
+        Variance: 5
+      - RSSI: -22.5962
+        Distance: 13.4
+        Variance: 5
+      - RSSI: -21.9622
+        Distance: 13.5
+        Variance: 5
+      - RSSI: -21.4084
+        Distance: 13.6
+        Variance: 5
+      - RSSI: -20.9405
+        Distance: 13.7
+        Variance: 5
+      - RSSI: -20.563
+        Distance: 13.8
+        Variance: 5
+      - RSSI: -20.2799
+        Distance: 13.9
+        Variance: 5
+      - RSSI: -20.0939
+        Distance: 14
+        Variance: 5
+      - RSSI: -20.0069
+        Distance: 14.1
+        Variance: 5
+      - RSSI: -20.0197
+        Distance: 14.2
+        Variance: 5
+      - RSSI: -20.1323
+        Distance: 14.3
+        Variance: 5
+      - RSSI: -20.3434
+        Distance: 14.4
+        Variance: 5
+      - RSSI: -20.651
+        Distance: 14.5
+        Variance: 5
+      - RSSI: -21.0521
+        Distance: 14.6
+        Variance: 5
+      - RSSI: -21.5425
+        Distance: 14.7
+        Variance: 5
+      - RSSI: -22.1175
+        Distance: 14.8
+        Variance: 5
+      - RSSI: -22.7712
+        Distance: 14.9
+        Variance: 5
+      - RSSI: -23.4971
+        Distance: 15
+        Variance: 5
+  - EPC: 1724778304
+    Points:
+      - RSSI: -38.1603
+        Distance: 10
+        Variance: 5
+      - RSSI: -39.3761
+        Distance: 10.1
+        Variance: 5
+      - RSSI: -40.4981
+        Distance: 10.2
+        Variance: 5
+      - RSSI: -41.5153
+        Distance: 10.3
+        Variance: 5
+      - RSSI: -42.4174
+        Distance: 10.4
+        Variance: 5
+      - RSSI: -43.1954
+        Distance: 10.5
+        Variance: 5
+      - RSSI: -43.8416
+        Distance: 10.6
+        Variance: 5
+      - RSSI: -44.3495
+        Distance: 10.7
+        Variance: 5
+      - RSSI: -44.714
+        Distance: 10.8
+        Variance: 5
+      - RSSI: -44.9315
+        Distance: 10.9
+        Variance: 5
+      - RSSI: -44.9999
+        Distance: 11
+        Variance: 5
+      - RSSI: -44.9183
+        Distance: 11.1
+        Variance: 5
+      - RSSI: -44.6877
+        Distance: 11.2
+        Variance: 5
+      - RSSI: -44.3103
+        Distance: 11.3
+        Variance: 5
+      - RSSI: -43.7899
+        Distance: 11.4
+        Variance: 5
+      - RSSI: -43.1318
+        Distance: 11.5
+        Variance: 5
+      - RSSI: -42.3424
+        Distance: 11.6
+        Variance: 5
+      - RSSI: -41.4298
+        Distance: 11.7
+        Variance: 5
+      - RSSI: -40.4029
+        Distance: 11.8
+        Variance: 5
+      - RSSI: -39.2721
+        Distance: 11.9
+        Variance: 5
+      - RSSI: -38.0486
+        Distance: 12
+        Variance: 5
+      - RSSI: -36.7447
+        Distance: 12.1
+        Variance: 5
+      - RSSI: -35.3734
+        Distance: 12.2
+        Variance: 5
+      - RSSI: -33.9485
+        Distance: 12.3
+        Variance: 5
+      - RSSI: -32.4841
+        Distance: 12.4
+        Variance: 5
+      - RSSI: -30.9948
+        Distance: 12.5
+        Variance: 5
+      - RSSI: -29.4957
+        Distance: 12.6
+        Variance: 5
+      - RSSI: -28.0015
+        Distance: 12.7
+        Variance: 5
+      - RSSI: -26.5274
+        Distance: 12.8
+        Variance: 5
+      - RSSI: -25.0879
+        Distance: 12.9
+        Variance: 5
+      - RSSI: -23.6975
+        Distance: 13
+        Variance: 5
+      - RSSI: -22.3701
+        Distance: 13.1
+        Variance: 5
+      - RSSI: -21.1189
+        Distance: 13.2
+        Variance: 5
+      - RSSI: -19.9565
+        Distance: 13.3
+        Variance: 5
+      - RSSI: -18.8944
+        Distance: 13.4
+        Variance: 5
+      - RSSI: -17.9432
+        Distance: 13.5
+        Variance: 5
+      - RSSI: -17.1126
+        Distance: 13.6
+        Variance: 5
+      - RSSI: -16.4107
+        Distance: 13.7
+        Variance: 5
+      - RSSI: -15.8446
+        Distance: 13.8
+        Variance: 5
+      - RSSI: -15.4199
+        Distance: 13.9
+        Variance: 5
+      - RSSI: -15.1409
+        Distance: 14
+        Variance: 5
+      - RSSI: -15.0104
+        Distance: 14.1
+        Variance: 5
+      - RSSI: -15.0296
+        Distance: 14.2
+        Variance: 5
+      - RSSI: -15.1984
+        Distance: 14.3
+        Variance: 5
+      - RSSI: -15.5151
+        Distance: 14.4
+        Variance: 5
+      - RSSI: -15.9766
+        Distance: 14.5
+        Variance: 5
+      - RSSI: -16.5781
+        Distance: 14.6
+        Variance: 5
+      - RSSI: -17.3138
+        Distance: 14.7
+        Variance: 5
+      - RSSI: -18.1762
+        Distance: 14.8
+        Variance: 5
+      - RSSI: -19.1568
+        Distance: 14.9
+        Variance: 5
+      - RSSI: -20.2457
+        Distance: 15
+        Variance: 5
+      - RSSI: -21.432
+        Distance: 15.1
+        Variance: 5
+      - RSSI: -22.704
+        Distance: 15.2
+        Variance: 5
+      - RSSI: -24.0489
+        Distance: 15.3
+        Variance: 5
+      - RSSI: -25.4532
+        Distance: 15.4
+        Variance: 5
+      - RSSI: -26.903
+        Distance: 15.5
+        Variance: 5
+      - RSSI: -28.3837
+        Distance: 15.6
+        Variance: 5
+      - RSSI: -29.8806
+        Distance: 15.7
+        Variance: 5
+      - RSSI: -31.3786
+        Distance: 15.8
+        Variance: 5
+      - RSSI: -32.8629
+        Distance: 15.9
+        Variance: 5
+      - RSSI: -34.3185
+        Distance: 16
+        Variance: 5
+      - RSSI: -35.7311
+        Distance: 16.1
+        Variance: 5
+      - RSSI: -37.0863
+        Distance: 16.2
+        Variance: 5
+      - RSSI: -38.3708
+        Distance: 16.3
+        Variance: 5
+      - RSSI: -39.5716
+        Distance: 16.4
+        Variance: 5
+      - RSSI: -40.6768
+        Distance: 16.5
+        Variance: 5
+      - RSSI: -41.6753
+        Distance: 16.6
+        Variance: 5
+      - RSSI: -42.5571
+        Distance: 16.7
+        Variance: 5
+      - RSSI: -43.3135
+        Distance: 16.8
+        Variance: 5
+      - RSSI: -43.9369
+        Distance: 16.9
+        Variance: 5
+      - RSSI: -44.421
+        Distance: 17
+        Variance: 5
+      - RSSI: -44.761
+        Distance: 17.1
+        Variance: 5
+      - RSSI: -44.9535
+        Distance: 17.2
+        Variance: 5
+      - RSSI: -44.9966
+        Distance: 17.3
+        Variance: 5
+      - RSSI: -44.8899
+        Distance: 17.4
+        Variance: 5
+      - RSSI: -44.6344
+        Distance: 17.5
+        Variance: 5
+      - RSSI: -44.2327
+        Distance: 17.6
+        Variance: 5
+      - RSSI: -43.6887
+        Distance: 17.7
+        Variance: 5
+      - RSSI: -43.008
+        Distance: 17.8
+        Variance: 5
+      - RSSI: -42.1974
+        Distance: 17.9
+        Variance: 5
+      - RSSI: -41.2648
+        Distance: 18
+        Variance: 5
+      - RSSI: -40.2197
+        Distance: 18.1
+        Variance: 5
+      - RSSI: -39.0725
+        Distance: 18.2
+        Variance: 5
+      - RSSI: -37.8346
+        Distance: 18.3
+        Variance: 5
+      - RSSI: -36.5185
+        Distance: 18.4
+        Variance: 5
+      - RSSI: -35.1372
+        Distance: 18.5
+        Variance: 5
+      - RSSI: -33.7046
+        Distance: 18.6
+        Variance: 5
+      - RSSI: -32.235
+        Distance: 18.7
+        Variance: 5
+      - RSSI: -30.743
+        Distance: 18.8
+        Variance: 5
+      - RSSI: -29.2437
+        Distance: 18.9
+        Variance: 5
+      - RSSI: -27.7518
+        Distance: 19
+        Variance: 5
+      - RSSI: -26.2825
+        Distance: 19.1
+        Variance: 5
+      - RSSI: -24.8503
+        Distance: 19.2
+        Variance: 5
+      - RSSI: -23.4695
+        Distance: 19.3
+        Variance: 5
+      - RSSI: -22.154
+        Distance: 19.4
+        Variance: 5
+      - RSSI: -20.9169
+        Distance: 19.5
+        Variance: 5
+      - RSSI: -19.7705
+        Distance: 19.6
+        Variance: 5
+      - RSSI: -18.7264
+        Distance: 19.7
+        Variance: 5
+      - RSSI: -17.7949
+        Distance: 19.8
+        Variance: 5
+      - RSSI: -16.9853
+        Distance: 19.9
+        Variance: 5
+  - EPC: 1947008388
+    Points:
+      - RSSI: -22.1965
+        Distance: 15
+        Variance: 5
+      - RSSI: -23.1456
+        Distance: 15.1
+        Variance: 5
+      - RSSI: -24.1632
+        Distance: 15.2
+        Variance: 5
+      - RSSI: -25.2391
+        Distance: 15.3
+        Variance: 5
+      - RSSI: -26.3626
+        Distance: 15.4
+        Variance: 5
+      - RSSI: -27.5224
+        Distance: 15.5
+        Variance: 5
+      - RSSI: -28.707
+        Distance: 15.6
+        Variance: 5
+      - RSSI: -29.9044
+        Distance: 15.7
+        Variance: 5
+      - RSSI: -31.1029
+        Distance: 15.8
+        Variance: 5
+      - RSSI: -32.2903
+        Distance: 15.9
+        Variance: 5
+      - RSSI: -33.4548
+        Distance: 16
+        Variance: 5
+      - RSSI: -34.5849
+        Distance: 16.1
+        Variance: 5
+      - RSSI: -35.6691
+        Distance: 16.2
+        Variance: 5
+      - RSSI: -36.6966
+        Distance: 16.3
+        Variance: 5
+      - RSSI: -37.6573
+        Distance: 16.4
+        Variance: 5
+      - RSSI: -38.5414
+        Distance: 16.5
+        Variance: 5
+      - RSSI: -39.3402
+        Distance: 16.6
+        Variance: 5
+      - RSSI: -40.0457
+        Distance: 16.7
+        Variance: 5
+      - RSSI: -40.6508
+        Distance: 16.8
+        Variance: 5
+      - RSSI: -41.1495
+        Distance: 16.9
+        Variance: 5
+      - RSSI: -41.5368
+        Distance: 17
+        Variance: 5
+      - RSSI: -41.8088
+        Distance: 17.1
+        Variance: 5
+      - RSSI: -41.9628
+        Distance: 17.2
+        Variance: 5
+      - RSSI: -41.9973
+        Distance: 17.3
+        Variance: 5
+      - RSSI: -41.9119
+        Distance: 17.4
+        Variance: 5
+      - RSSI: -41.7075
+        Distance: 17.5
+        Variance: 5
+      - RSSI: -41.3861
+        Distance: 17.6
+        Variance: 5
+      - RSSI: -40.951
+        Distance: 17.7
+        Variance: 5
+      - RSSI: -40.4064
+        Distance: 17.8
+        Variance: 5
+      - RSSI: -39.7579
+        Distance: 17.9
+        Variance: 5
+      - RSSI: -39.0118
+        Distance: 18
+        Variance: 5
+      - RSSI: -38.1758
+        Distance: 18.1
+        Variance: 5
+      - RSSI: -37.258
+        Distance: 18.2
+        Variance: 5
+      - RSSI: -36.2677
+        Distance: 18.3
+        Variance: 5
+      - RSSI: -35.2148
+        Distance: 18.4
+        Variance: 5
+      - RSSI: -34.1098
+        Distance: 18.5
+        Variance: 5
+      - RSSI: -32.9637
+        Distance: 18.6
+        Variance: 5
+      - RSSI: -31.788
+        Distance: 18.7
+        Variance: 5
+      - RSSI: -30.5944
+        Distance: 18.8
+        Variance: 5
+      - RSSI: -29.3949
+        Distance: 18.9
+        Variance: 5
+      - RSSI: -28.2015
+        Distance: 19
+        Variance: 5
+      - RSSI: -27.026
+        Distance: 19.1
+        Variance: 5
+      - RSSI: -25.8802
+        Distance: 19.2
+        Variance: 5
+      - RSSI: -24.7756
+        Distance: 19.3
+        Variance: 5
+      - RSSI: -23.7232
+        Distance: 19.4
+        Variance: 5
+      - RSSI: -22.7335
+        Distance: 19.5
+        Variance: 5
+      - RSSI: -21.8164
+        Distance: 19.6
+        Variance: 5
+      - RSSI: -20.9811
+        Distance: 19.7
+        Variance: 5
+      - RSSI: -20.2359
+        Distance: 19.8
+        Variance: 5
+      - RSSI: -19.5883
+        Distance: 19.9
+        Variance: 5
+      - RSSI: -19.0447
+        Distance: 20
+        Variance: 5
+      - RSSI: -18.6105
+        Distance: 20.1
+        Variance: 5
+      - RSSI: -18.2902
+        Distance: 20.2
+        Variance: 5
+      - RSSI: -18.0868
+        Distance: 20.3
+        Variance: 5
+      - RSSI: -18.0025
+        Distance: 20.4
+        Variance: 5
+      - RSSI: -18.038
+        Distance: 20.5
+        Variance: 5
+      - RSSI: -18.1931
+        Distance: 20.6
+        Variance: 5
+      - RSSI: -18.4662
+        Distance: 20.7
+        Variance: 5
+      - RSSI: -18.8545
+        Distance: 20.8
+        Variance: 5
+      - RSSI: -19.3541
+        Distance: 20.9
+        Variance: 5
+      - RSSI: -19.9601
+        Distance: 21
+        Variance: 5
+      - RSSI: -20.6665
+        Distance: 21.1
+        Variance: 5
+      - RSSI: -21.4661
+        Distance: 21.2
+        Variance: 5
+      - RSSI: -22.3509
+        Distance: 21.3
+        Variance: 5
+      - RSSI: -23.3122
+        Distance: 21.4
+        Variance: 5
+      - RSSI: -24.3403
+        Distance: 21.5
+        Variance: 5
+      - RSSI: -25.425
+        Distance: 21.6
+        Variance: 5
+      - RSSI: -26.5554
+        Distance: 21.7
+        Variance: 5
+      - RSSI: -27.7202
+        Distance: 21.8
+        Variance: 5
+      - RSSI: -28.9077
+        Distance: 21.9
+        Variance: 5
+      - RSSI: -30.1062
+        Distance: 22
+        Variance: 5
+      - RSSI: -31.3036
+        Distance: 22.1
+        Variance: 5
+      - RSSI: -32.488
+        Distance: 22.2
+        Variance: 5
+      - RSSI: -33.6476
+        Distance: 22.3
+        Variance: 5
+      - RSSI: -34.7707
+        Distance: 22.4
+        Variance: 5
+      - RSSI: -35.8461
+        Distance: 22.5
+        Variance: 5
+      - RSSI: -36.8631
+        Distance: 22.6
+        Variance: 5
+      - RSSI: -37.8115
+        Distance: 22.7
+        Variance: 5
+      - RSSI: -38.6819
+        Distance: 22.8
+        Variance: 5
+      - RSSI: -39.4656
+        Distance: 22.9
+        Variance: 5
+      - RSSI: -40.1546
+        Distance: 23
+        Variance: 5
+      - RSSI: -40.7422
+        Distance: 23.1
+        Variance: 5
+      - RSSI: -41.2225
+        Distance: 23.2
+        Variance: 5
+      - RSSI: -41.5907
+        Distance: 23.3
+        Variance: 5
+      - RSSI: -41.843
+        Distance: 23.4
+        Variance: 5
+      - RSSI: -41.977
+        Distance: 23.5
+        Variance: 5
+      - RSSI: -41.9913
+        Distance: 23.6
+        Variance: 5
+      - RSSI: -41.8858
+        Distance: 23.7
+        Variance: 5
+      - RSSI: -41.6616
+        Distance: 23.8
+        Variance: 5
+      - RSSI: -41.3208
+        Distance: 23.9
+        Variance: 5
+      - RSSI: -40.8669
+        Distance: 24
+        Variance: 5
+      - RSSI: -40.3045
+        Distance: 24.1
+        Variance: 5
+      - RSSI: -39.6391
+        Distance: 24.2
+        Variance: 5
+      - RSSI: -38.8773
+        Distance: 24.3
+        Variance: 5
+      - RSSI: -38.0269
+        Distance: 24.4
+        Variance: 5
+      - RSSI: -37.0963
+        Distance: 24.5
+        Variance: 5
+      - RSSI: -36.0948
+        Distance: 24.6
+        Variance: 5
+      - RSSI: -35.0323
+        Distance: 24.7
+        Variance: 5
+      - RSSI: -33.9196
+        Distance: 24.8
+        Variance: 5
+      - RSSI: -32.7677
+        Distance: 24.9
+        Variance: 5
+  - EPC: 1777803651
+    Points:
+      - RSSI: -17.2188
+        Distance: 20
+        Variance: 5
+      - RSSI: -16.7123
+        Distance: 20.1
+        Variance: 5
+      - RSSI: -16.3385
+        Distance: 20.2
+        Variance: 5
+      - RSSI: -16.1013
+        Distance: 20.3
+        Variance: 5
+      - RSSI: -16.0029
+        Distance: 20.4
+        Variance: 5
+      - RSSI: -16.0444
+        Distance: 20.5
+        Variance: 5
+      - RSSI: -16.2253
+        Distance: 20.6
+        Variance: 5
+      - RSSI: -16.5439
+        Distance: 20.7
+        Variance: 5
+      - RSSI: -16.9969
+        Distance: 20.8
+        Variance: 5
+      - RSSI: -17.5798
+        Distance: 20.9
+        Variance: 5
+      - RSSI: -18.2868
+        Distance: 21
+        Variance: 5
+      - RSSI: -19.1109
+        Distance: 21.1
+        Variance: 5
+      - RSSI: -20.0437
+        Distance: 21.2
+        Variance: 5
+      - RSSI: -21.0761
+        Distance: 21.3
+        Variance: 5
+      - RSSI: -22.1976
+        Distance: 21.4
+        Variance: 5
+      - RSSI: -23.3971
+        Distance: 21.5
+        Variance: 5
+      - RSSI: -24.6625
+        Distance: 21.6
+        Variance: 5
+      - RSSI: -25.9813
+        Distance: 21.7
+        Variance: 5
+      - RSSI: -27.3402
+        Distance: 21.8
+        Variance: 5
+      - RSSI: -28.7257
+        Distance: 21.9
+        Variance: 5
+      - RSSI: -30.1239
+        Distance: 22
+        Variance: 5
+      - RSSI: -31.5209
+        Distance: 22.1
+        Variance: 5
+      - RSSI: -32.9027
+        Distance: 22.2
+        Variance: 5
+      - RSSI: -34.2555
+        Distance: 22.3
+        Variance: 5
+      - RSSI: -35.5658
+        Distance: 22.4
+        Variance: 5
+      - RSSI: -36.8204
+        Distance: 22.5
+        Variance: 5
+      - RSSI: -38.007
+        Distance: 22.6
+        Variance: 5
+      - RSSI: -39.1135
+        Distance: 22.7
+        Variance: 5
+      - RSSI: -40.1289
+        Distance: 22.8
+        Variance: 5
+      - RSSI: -41.0432
+        Distance: 22.9
+        Variance: 5
+      - RSSI: -41.8471
+        Distance: 23
+        Variance: 5
+      - RSSI: -42.5326
+        Distance: 23.1
+        Variance: 5
+      - RSSI: -43.0929
+        Distance: 23.2
+        Variance: 5
+      - RSSI: -43.5224
+        Distance: 23.3
+        Variance: 5
+      - RSSI: -43.8168
+        Distance: 23.4
+        Variance: 5
+      - RSSI: -43.9731
+        Distance: 23.5
+        Variance: 5
+      - RSSI: -43.9899
+        Distance: 23.6
+        Variance: 5
+      - RSSI: -43.8668
+        Distance: 23.7
+        Variance: 5
+      - RSSI: -43.6052
+        Distance: 23.8
+        Variance: 5
+      - RSSI: -43.2076
+        Distance: 23.9
+        Variance: 5
+      - RSSI: -42.6781
+        Distance: 24
+        Variance: 5
+      - RSSI: -42.0219
+        Distance: 24.1
+        Variance: 5
+      - RSSI: -41.2456
+        Distance: 24.2
+        Variance: 5
+      - RSSI: -40.3569
+        Distance: 24.3
+        Variance: 5
+      - RSSI: -39.3647
+        Distance: 24.4
+        Variance: 5
+      - RSSI: -38.279
+        Distance: 24.5
+        Variance: 5
+      - RSSI: -37.1106
+        Distance: 24.6
+        Variance: 5
+      - RSSI: -35.8711
+        Distance: 24.7
+        Variance: 5
+      - RSSI: -34.5729
+        Distance: 24.8
+        Variance: 5
+      - RSSI: -33.229
+        Distance: 24.9
+        Variance: 5
+      - RSSI: -31.8529
+        Distance: 25
+        Variance: 5
+      - RSSI: -30.4583
+        Distance: 25.1
+        Variance: 5
+      - RSSI: -29.0591
+        Distance: 25.2
+        Variance: 5
+      - RSSI: -27.6693
+        Distance: 25.3
+        Variance: 5
+      - RSSI: -26.3028
+        Distance: 25.4
+        Variance: 5
+      - RSSI: -24.9732
+        Distance: 25.5
+        Variance: 5
+      - RSSI: -23.6938
+        Distance: 25.6
+        Variance: 5
+      - RSSI: -22.4775
+        Distance: 25.7
+        Variance: 5
+      - RSSI: -21.3363
+        Distance: 25.8
+        Variance: 5
+      - RSSI: -20.2817
+        Distance: 25.9
+        Variance: 5
+      - RSSI: -19.3242
+        Distance: 26
+        Variance: 5
+      - RSSI: -18.4733
+        Distance: 26.1
+        Variance: 5
+      - RSSI: -17.7377
+        Distance: 26.2
+        Variance: 5
+      - RSSI: -17.1245
+        Distance: 26.3
+        Variance: 5
+      - RSSI: -16.64
+        Distance: 26.4
+        Variance: 5
+      - RSSI: -16.289
+        Distance: 26.5
+        Variance: 5
+      - RSSI: -16.075
+        Distance: 26.6
+        Variance: 5
+      - RSSI: -16.0001
+        Distance: 26.7
+        Variance: 5
+      - RSSI: -16.0651
+        Distance: 26.8
+        Variance: 5
+      - RSSI: -16.2693
+        Distance: 26.9
+        Variance: 5
+      - RSSI: -16.6107
+        Distance: 27
+        Variance: 5
+      - RSSI: -17.0859
+        Distance: 27.1
+        Variance: 5
+      - RSSI: -17.6902
+        Distance: 27.2
+        Variance: 5
+      - RSSI: -18.4174
+        Distance: 27.3
+        Variance: 5
+      - RSSI: -19.2604
+        Distance: 27.4
+        Variance: 5
+      - RSSI: -20.2106
+        Distance: 27.5
+        Variance: 5
+      - RSSI: -21.2587
+        Distance: 27.6
+        Variance: 5
+      - RSSI: -22.3941
+        Distance: 27.7
+        Variance: 5
+      - RSSI: -23.6056
+        Distance: 27.8
+        Variance: 5
+      - RSSI: -24.8809
+        Distance: 27.9
+        Variance: 5
+      - RSSI: -26.2073
+        Distance: 28
+        Variance: 5
+      - RSSI: -27.5717
+        Distance: 28.1
+        Variance: 5
+      - RSSI: -28.9603
+        Distance: 28.2
+        Variance: 5
+      - RSSI: -30.3593
+        Distance: 28.3
+        Variance: 5
+      - RSSI: -31.7547
+        Distance: 28.4
+        Variance: 5
+      - RSSI: -33.1326
+        Distance: 28.5
+        Variance: 5
+      - RSSI: -34.4792
+        Distance: 28.6
+        Variance: 5
+      - RSSI: -35.781
+        Distance: 28.7
+        Variance: 5
+      - RSSI: -37.0251
+        Distance: 28.8
+        Variance: 5
+      - RSSI: -38.1989
+        Distance: 28.9
+        Variance: 5
+      - RSSI: -39.2909
+        Distance: 29
+        Variance: 5
+      - RSSI: -40.29
+        Distance: 29.1
+        Variance: 5
+      - RSSI: -41.1863
+        Distance: 29.2
+        Variance: 5
+      - RSSI: -41.9708
+        Distance: 29.3
+        Variance: 5
+      - RSSI: -42.6358
+        Distance: 29.4
+        Variance: 5
+      - RSSI: -43.1744
+        Distance: 29.5
+        Variance: 5
+      - RSSI: -43.5815
+        Distance: 29.6
+        Variance: 5
+      - RSSI: -43.8528
+        Distance: 29.7
+        Variance: 5
+      - RSSI: -43.9857
+        Distance: 29.8
+        Variance: 5
+      - RSSI: -43.9789
+        Distance: 29.9
+        Variance: 5
+  - EPC: 1438442010
+    Points:
+      - RSSI: -31.7206
+        Distance: 25
+        Variance: 5
+      - RSSI: -30.4256
+        Distance: 25.1
+        Variance: 5
+      - RSSI: -29.1263
+        Distance: 25.2
+        Variance: 5
+      - RSSI: -27.8358
+        Distance: 25.3
+        Variance: 5
+      - RSSI: -26.5668
+        Distance: 25.4
+        Variance: 5
+      - RSSI: -25.3322
+        Distance: 25.5
+        Variance: 5
+      - RSSI: -24.1443
+        Distance: 25.6
+        Variance: 5
+      - RSSI: -23.0148
+        Distance: 25.7
+        Variance: 5
+      - RSSI: -21.9551
+        Distance: 25.8
+        Variance: 5
+      - RSSI: -20.9759
+        Distance: 25.9
+        Variance: 5
+      - RSSI: -20.0867
+        Distance: 26
+        Variance: 5
+      - RSSI: -19.2967
+        Distance: 26.1
+        Variance: 5
+      - RSSI: -18.6135
+        Distance: 26.2
+        Variance: 5
+      - RSSI: -18.0442
+        Distance: 26.3
+        Variance: 5
+      - RSSI: -17.5943
+        Distance: 26.4
+        Variance: 5
+      - RSSI: -17.2684
+        Distance: 26.5
+        Variance: 5
+      - RSSI: -17.0696
+        Distance: 26.6
+        Variance: 5
+      - RSSI: -17.0001
+        Distance: 26.7
+        Variance: 5
+      - RSSI: -17.0604
+        Distance: 26.8
+        Variance: 5
+      - RSSI: -17.2501
+        Distance: 26.9
+        Variance: 5
+      - RSSI: -17.5671
+        Distance: 27
+        Variance: 5
+      - RSSI: -18.0084
+        Distance: 27.1
+        Variance: 5
+      - RSSI: -18.5695
+        Distance: 27.2
+        Variance: 5
+      - RSSI: -19.2447
+        Distance: 27.3
+        Variance: 5
+      - RSSI: -20.0275
+        Distance: 27.4
+        Variance: 5
+      - RSSI: -20.9099
+        Distance: 27.5
+        Variance: 5
+      - RSSI: -21.8831
+        Distance: 27.6
+        Variance: 5
+      - RSSI: -22.9374
+        Distance: 27.7
+        Variance: 5
+      - RSSI: -24.0623
+        Distance: 27.8
+        Variance: 5
+      - RSSI: -25.2465
+        Distance: 27.9
+        Variance: 5
+      - RSSI: -26.4782
+        Distance: 28
+        Variance: 5
+      - RSSI: -27.7451
+        Distance: 28.1
+        Variance: 5
+      - RSSI: -29.0345
+        Distance: 28.2
+        Variance: 5
+      - RSSI: -30.3336
+        Distance: 28.3
+        Variance: 5
+      - RSSI: -31.6294
+        Distance: 28.4
+        Variance: 5
+      - RSSI: -32.9088
+        Distance: 28.5
+        Variance: 5
+      - RSSI: -34.1592
+        Distance: 28.6
+        Variance: 5
+      - RSSI: -35.3681
+        Distance: 28.7
+        Variance: 5
+      - RSSI: -36.5233
+        Distance: 28.8
+        Variance: 5
+      - RSSI: -37.6133
+        Distance: 28.9
+        Variance: 5
+      - RSSI: -38.6272
+        Distance: 29
+        Variance: 5
+      - RSSI: -39.555
+        Distance: 29.1
+        Variance: 5
+      - RSSI: -40.3873
+        Distance: 29.2
+        Variance: 5
+      - RSSI: -41.1158
+        Distance: 29.3
+        Variance: 5
+      - RSSI: -41.7332
+        Distance: 29.4
+        Variance: 5
+      - RSSI: -42.2334
+        Distance: 29.5
+        Variance: 5
+      - RSSI: -42.6114
+        Distance: 29.6
+        Variance: 5
+      - RSSI: -42.8633
+        Distance: 29.7
+        Variance: 5
+      - RSSI: -42.9868
+        Distance: 29.8
+        Variance: 5
+      - RSSI: -42.9804
+        Distance: 29.9
+        Variance: 5
+      - RSSI: -42.8444
+        Distance: 30
+        Variance: 5
+      - RSSI: -42.58
+        Distance: 30.1
+        Variance: 5
+      - RSSI: -42.19
+        Distance: 30.2
+        Variance: 5
+      - RSSI: -41.6781
+        Distance: 30.3
+        Variance: 5
+      - RSSI: -41.0496
+        Distance: 30.4
+        Variance: 5
+      - RSSI: -40.3107
+        Distance: 30.5
+        Variance: 5
+      - RSSI: -39.4687
+        Distance: 30.6
+        Variance: 5
+      - RSSI: -38.5321
+        Distance: 30.7
+        Variance: 5
+      - RSSI: -37.5103
+        Distance: 30.8
+        Variance: 5
+      - RSSI: -36.4134
+        Distance: 30.9
+        Variance: 5
+      - RSSI: -35.2525
+        Distance: 31
+        Variance: 5
+      - RSSI: -34.0391
+        Distance: 31.1
+        Variance: 5
+      - RSSI: -32.7853
+        Distance: 31.2
+        Variance: 5
+      - RSSI: -31.5037
+        Distance: 31.3
+        Variance: 5
+      - RSSI: -30.207
+        Distance: 31.4
+        Variance: 5
+      - RSSI: -28.9083
+        Distance: 31.5
+        Variance: 5
+      - RSSI: -27.6205
+        Distance: 31.6
+        Variance: 5
+      - RSSI: -26.3565
+        Distance: 31.7
+        Variance: 5
+      - RSSI: -25.1289
+        Distance: 31.8
+        Variance: 5
+      - RSSI: -23.9499
+        Distance: 31.9
+        Variance: 5
+      - RSSI: -22.8315
+        Distance: 32
+        Variance: 5
+      - RSSI: -21.7846
+        Distance: 32.1
+        Variance: 5
+      - RSSI: -20.8198
+        Distance: 32.2
+        Variance: 5
+      - RSSI: -19.9467
+        Distance: 32.3
+        Variance: 5
+      - RSSI: -19.1741
+        Distance: 32.4
+        Variance: 5
+      - RSSI: -18.5097
+        Distance: 32.5
+        Variance: 5
+      - RSSI: -17.96
+        Distance: 32.6
+        Variance: 5
+      - RSSI: -17.5307
+        Distance: 32.7
+        Variance: 5
+      - RSSI: -17.226
+        Distance: 32.8
+        Variance: 5
+      - RSSI: -17.0489
+        Distance: 32.9
+        Variance: 5
+      - RSSI: -17.0011
+        Distance: 33
+        Variance: 5
+      - RSSI: -17.0833
+        Distance: 33.1
+        Variance: 5
+      - RSSI: -17.2945
+        Distance: 33.2
+        Variance: 5
+      - RSSI: -17.6327
+        Distance: 33.3
+        Variance: 5
+      - RSSI: -18.0945
+        Distance: 33.4
+        Variance: 5
+      - RSSI: -18.6752
+        Distance: 33.5
+        Variance: 5
+      - RSSI: -19.369
+        Distance: 33.6
+        Variance: 5
+      - RSSI: -20.1691
+        Distance: 33.7
+        Variance: 5
+      - RSSI: -21.0674
+        Distance: 33.8
+        Variance: 5
+      - RSSI: -22.055
+        Distance: 33.9
+        Variance: 5
+      - RSSI: -23.1219
+        Distance: 34
+        Variance: 5
+      - RSSI: -24.2576
+        Distance: 34.1
+        Variance: 5
+      - RSSI: -25.4506
+        Distance: 34.2
+        Variance: 5
+      - RSSI: -26.6891
+        Distance: 34.3
+        Variance: 5
+      - RSSI: -27.9607
+        Distance: 34.4
+        Variance: 5
+      - RSSI: -29.2527
+        Distance: 34.5
+        Variance: 5
+      - RSSI: -30.5521
+        Distance: 34.6
+        Variance: 5
+      - RSSI: -31.846
+        Distance: 34.7
+        Variance: 5
+      - RSSI: -33.1215
+        Distance: 34.8
+        Variance: 5
+      - RSSI: -34.3657
+        Distance: 34.9
+        Variance: 5
+  - EPC: 1148435028
+    Points:
+      - RSSI: -38.8923
+        Distance: 30
+        Variance: 5
+      - RSSI: -38.7093
+        Distance: 30.1
+        Variance: 5
+      - RSSI: -38.4392
+        Distance: 30.2
+        Variance: 5
+      - RSSI: -38.0849
+        Distance: 30.3
+        Variance: 5
+      - RSSI: -37.6497
+        Distance: 30.4
+        Variance: 5
+      - RSSI: -37.1381
+        Distance: 30.5
+        Variance: 5
+      - RSSI: -36.5552
+        Distance: 30.6
+        Variance: 5
+      - RSSI: -35.9069
+        Distance: 30.7
+        Variance: 5
+      - RSSI: -35.1994
+        Distance: 30.8
+        Variance: 5
+      - RSSI: -34.4401
+        Distance: 30.9
+        Variance: 5
+      - RSSI: -33.6363
+        Distance: 31
+        Variance: 5
+      - RSSI: -32.7963
+        Distance: 31.1
+        Variance: 5
+      - RSSI: -31.9283
+        Distance: 31.2
+        Variance: 5
+      - RSSI: -31.041
+        Distance: 31.3
+        Variance: 5
+      - RSSI: -30.1433
+        Distance: 31.4
+        Variance: 5
+      - RSSI: -29.2442
+        Distance: 31.5
+        Variance: 5
+      - RSSI: -28.3527
+        Distance: 31.6
+        Variance: 5
+      - RSSI: -27.4776
+        Distance: 31.7
+        Variance: 5
+      - RSSI: -26.6277
+        Distance: 31.8
+        Variance: 5
+      - RSSI: -25.8115
+        Distance: 31.9
+        Variance: 5
+      - RSSI: -25.0372
+        Distance: 32
+        Variance: 5
+      - RSSI: -24.3124
+        Distance: 32.1
+        Variance: 5
+      - RSSI: -23.6445
+        Distance: 32.2
+        Variance: 5
+      - RSSI: -23.04
+        Distance: 32.3
+        Variance: 5
+      - RSSI: -22.5052
+        Distance: 32.4
+        Variance: 5
+      - RSSI: -22.0452
+        Distance: 32.5
+        Variance: 5
+      - RSSI: -21.6646
+        Distance: 32.6
+        Variance: 5
+      - RSSI: -21.3674
+        Distance: 32.7
+        Variance: 5
+      - RSSI: -21.1564
+        Distance: 32.8
+        Variance: 5
+      - RSSI: -21.0338
+        Distance: 32.9
+        Variance: 5
+      - RSSI: -21.0008
+        Distance: 33
+        Variance: 5
+      - RSSI: -21.0577
+        Distance: 33.1
+        Variance: 5
+      - RSSI: -21.2039
+        Distance: 33.2
+        Variance: 5
+      - RSSI: -21.438
+        Distance: 33.3
+        Variance: 5
+      - RSSI: -21.7577
+        Distance: 33.4
+        Variance: 5
+      - RSSI: -22.1597
+        Distance: 33.5
+        Variance: 5
+      - RSSI: -22.6401
+        Distance: 33.6
+        Variance: 5
+      - RSSI: -23.194
+        Distance: 33.7
+        Variance: 5
+      - RSSI: -23.8159
+        Distance: 33.8
+        Variance: 5
+      - RSSI: -24.4996
+        Distance: 33.9
+        Variance: 5
+      - RSSI: -25.2383
+        Distance: 34
+        Variance: 5
+      - RSSI: -26.0245
+        Distance: 34.1
+        Variance: 5
+      - RSSI: -26.8504
+        Distance: 34.2
+        Variance: 5
+      - RSSI: -27.7079
+        Distance: 34.3
+        Variance: 5
+      - RSSI: -28.5882
+        Distance: 34.4
+        Variance: 5
+      - RSSI: -29.4826
+        Distance: 34.5
+        Variance: 5
+      - RSSI: -30.3822
+        Distance: 34.6
+        Variance: 5
+      - RSSI: -31.278
+        Distance: 34.7
+        Variance: 5
+      - RSSI: -32.161
+        Distance: 34.8
+        Variance: 5
+      - RSSI: -33.0224
+        Distance: 34.9
+        Variance: 5
+      - RSSI: -33.8536
+        Distance: 35
+        Variance: 5
+      - RSSI: -34.6464
+        Distance: 35.1
+        Variance: 5
+      - RSSI: -35.3927
+        Distance: 35.2
+        Variance: 5
+      - RSSI: -36.0851
+        Distance: 35.3
+        Variance: 5
+      - RSSI: -36.7167
+        Distance: 35.4
+        Variance: 5
+      - RSSI: -37.2812
+        Distance: 35.5
+        Variance: 5
+      - RSSI: -37.7729
+        Distance: 35.6
+        Variance: 5
+      - RSSI: -38.187
+        Distance: 35.7
+        Variance: 5
+      - RSSI: -38.5193
+        Distance: 35.8
+        Variance: 5
+      - RSSI: -38.7664
+        Distance: 35.9
+        Variance: 5
+      - RSSI: -38.926
+        Distance: 36
+        Variance: 5
+      - RSSI: -38.9964
+        Distance: 36.1
+        Variance: 5
+      - RSSI: -38.9769
+        Distance: 36.2
+        Variance: 5
+      - RSSI: -38.8677
+        Distance: 36.3
+        Variance: 5
+      - RSSI: -38.6699
+        Distance: 36.4
+        Variance: 5
+      - RSSI: -38.3855
+        Distance: 36.5
+        Variance: 5
+      - RSSI: -38.0172
+        Distance: 36.6
+        Variance: 5
+      - RSSI: -37.5689
+        Distance: 36.7
+        Variance: 5
+      - RSSI: -37.045
+        Distance: 36.8
+        Variance: 5
+      - RSSI: -36.4506
+        Distance: 36.9
+        Variance: 5
+      - RSSI: -35.7918
+        Distance: 37
+        Variance: 5
+      - RSSI: -35.0752
+        Distance: 37.1
+        Variance: 5
+      - RSSI: -34.3078
+        Distance: 37.2
+        Variance: 5
+      - RSSI: -33.4974
+        Distance: 37.3
+        Variance: 5
+      - RSSI: -32.652
+        Distance: 37.4
+        Variance: 5
+      - RSSI: -31.7802
+        Distance: 37.5
+        Variance: 5
+      - RSSI: -30.8905
+        Distance: 37.6
+        Variance: 5
+      - RSSI: -29.992
+        Distance: 37.7
+        Variance: 5
+      - RSSI: -29.0935
+        Distance: 37.8
+        Variance: 5
+      - RSSI: -28.2041
+        Distance: 37.9
+        Variance: 5
+      - RSSI: -27.3327
+        Distance: 38
+        Variance: 5
+      - RSSI: -26.4879
+        Distance: 38.1
+        Variance: 5
+      - RSSI: -25.6782
+        Distance: 38.2
+        Variance: 5
+      - RSSI: -24.9116
+        Distance: 38.3
+        Variance: 5
+      - RSSI: -24.1959
+        Distance: 38.4
+        Variance: 5
+      - RSSI: -23.5382
+        Distance: 38.5
+        Variance: 5
+      - RSSI: -22.9451
+        Distance: 38.6
+        Variance: 5
+      - RSSI: -22.4224
+        Distance: 38.7
+        Variance: 5
+      - RSSI: -21.9755
+        Distance: 38.8
+        Variance: 5
+      - RSSI: -21.6088
+        Distance: 38.9
+        Variance: 5
+      - RSSI: -21.3258
+        Distance: 39
+        Variance: 5
+      - RSSI: -21.1296
+        Distance: 39.1
+        Variance: 5
+      - RSSI: -21.022
+        Distance: 39.2
+        Variance: 5
+      - RSSI: -21.0041
+        Distance: 39.3
+        Variance: 5
+      - RSSI: -21.0761
+        Distance: 39.4
+        Variance: 5
+      - RSSI: -21.2372
+        Distance: 39.5
+        Variance: 5
+      - RSSI: -21.4859
+        Distance: 39.6
+        Variance: 5
+      - RSSI: -21.8197
+        Distance: 39.7
+        Variance: 5
+      - RSSI: -22.2352
+        Distance: 39.8
+        Variance: 5
+      - RSSI: -22.7282
+        Distance: 39.9
+        Variance: 5
+  - EPC: 1231772033
+    Points:
+      - RSSI: -34.2818
+        Distance: 35
+        Variance: 5
+      - RSSI: -35.1626
+        Distance: 35.1
+        Variance: 5
+      - RSSI: -35.9918
+        Distance: 35.2
+        Variance: 5
+      - RSSI: -36.7612
+        Distance: 35.3
+        Variance: 5
+      - RSSI: -37.463
+        Distance: 35.4
+        Variance: 5
+      - RSSI: -38.0902
+        Distance: 35.5
+        Variance: 5
+      - RSSI: -38.6366
+        Distance: 35.6
+        Variance: 5
+      - RSSI: -39.0967
+        Distance: 35.7
+        Variance: 5
+      - RSSI: -39.4659
+        Distance: 35.8
+        Variance: 5
+      - RSSI: -39.7405
+        Distance: 35.9
+        Variance: 5
+      - RSSI: -39.9178
+        Distance: 36
+        Variance: 5
+      - RSSI: -39.996
+        Distance: 36.1
+        Variance: 5
+      - RSSI: -39.9743
+        Distance: 36.2
+        Variance: 5
+      - RSSI: -39.853
+        Distance: 36.3
+        Variance: 5
+      - RSSI: -39.6332
+        Distance: 36.4
+        Variance: 5
+      - RSSI: -39.3172
+        Distance: 36.5
+        Variance: 5
+      - RSSI: -38.908
+        Distance: 36.6
+        Variance: 5
+      - RSSI: -38.4099
+        Distance: 36.7
+        Variance: 5
+      - RSSI: -37.8277
+        Distance: 36.8
+        Variance: 5
+      - RSSI: -37.1674
+        Distance: 36.9
+        Variance: 5
+      - RSSI: -36.4354
+        Distance: 37
+        Variance: 5
+      - RSSI: -35.6391
+        Distance: 37.1
+        Variance: 5
+      - RSSI: -34.7865
+        Distance: 37.2
+        Variance: 5
+      - RSSI: -33.886
+        Distance: 37.3
+        Variance: 5
+      - RSSI: -32.9467
+        Distance: 37.4
+        Variance: 5
+      - RSSI: -31.978
+        Distance: 37.5
+        Variance: 5
+      - RSSI: -30.9895
+        Distance: 37.6
+        Variance: 5
+      - RSSI: -29.9911
+        Distance: 37.7
+        Variance: 5
+      - RSSI: -28.9928
+        Distance: 37.8
+        Variance: 5
+      - RSSI: -28.0046
+        Distance: 37.9
+        Variance: 5
+      - RSSI: -27.0363
+        Distance: 38
+        Variance: 5
+      - RSSI: -26.0976
+        Distance: 38.1
+        Variance: 5
+      - RSSI: -25.198
+        Distance: 38.2
+        Variance: 5
+      - RSSI: -24.3462
+        Distance: 38.3
+        Variance: 5
+      - RSSI: -23.551
+        Distance: 38.4
+        Variance: 5
+      - RSSI: -22.8203
+        Distance: 38.5
+        Variance: 5
+      - RSSI: -22.1612
+        Distance: 38.6
+        Variance: 5
+      - RSSI: -21.5805
+        Distance: 38.7
+        Variance: 5
+      - RSSI: -21.0839
+        Distance: 38.8
+        Variance: 5
+      - RSSI: -20.6764
+        Distance: 38.9
+        Variance: 5
+      - RSSI: -20.362
+        Distance: 39
+        Variance: 5
+      - RSSI: -20.144
+        Distance: 39.1
+        Variance: 5
+      - RSSI: -20.0244
+        Distance: 39.2
+        Variance: 5
+      - RSSI: -20.0045
+        Distance: 39.3
+        Variance: 5
+      - RSSI: -20.0845
+        Distance: 39.4
+        Variance: 5
+      - RSSI: -20.2635
+        Distance: 39.5
+        Variance: 5
+      - RSSI: -20.5399
+        Distance: 39.6
+        Variance: 5
+      - RSSI: -20.9107
+        Distance: 39.7
+        Variance: 5
+      - RSSI: -21.3724
+        Distance: 39.8
+        Variance: 5
+      - RSSI: -21.9203
+        Distance: 39.9
+        Variance: 5
+      - RSSI: -22.5489
+        Distance: 40
+        Variance: 5
+      - RSSI: -23.2519
+        Distance: 40.1
+        Variance: 5
+      - RSSI: -24.0224
+        Distance: 40.2
+        Variance: 5
+      - RSSI: -24.8526
+        Distance: 40.3
+        Variance: 5
+      - RSSI: -25.7342
+        Distance: 40.4
+        Variance: 5
+      - RSSI: -26.6585
+        Distance: 40.5
+        Variance: 5
+      - RSSI: -27.6161
+        Distance: 40.6
+        Variance: 5
+      - RSSI: -28.5976
+        Distance: 40.7
+        Variance: 5
+      - RSSI: -29.5931
+        Distance: 40.8
+        Variance: 5
+      - RSSI: -30.5926
+        Distance: 40.9
+        Variance: 5
+      - RSSI: -31.5862
+        Distance: 41
+        Variance: 5
+      - RSSI: -32.564
+        Distance: 41.1
+        Variance: 5
+      - RSSI: -33.5161
+        Distance: 41.2
+        Variance: 5
+      - RSSI: -34.4332
+        Distance: 41.3
+        Variance: 5
+      - RSSI: -35.3059
+        Distance: 41.4
+        Variance: 5
+      - RSSI: -36.1256
+        Distance: 41.5
+        Variance: 5
+      - RSSI: -36.8841
+        Distance: 41.6
+        Variance: 5
+      - RSSI: -37.5738
+        Distance: 41.7
+        Variance: 5
+      - RSSI: -38.1879
+        Distance: 41.8
+        Variance: 5
+      - RSSI: -38.7201
+        Distance: 41.9
+        Variance: 5
+      - RSSI: -39.1652
+        Distance: 42
+        Variance: 5
+      - RSSI: -39.5187
+        Distance: 42.1
+        Variance: 5
+      - RSSI: -39.7772
+        Distance: 42.2
+        Variance: 5
+      - RSSI: -39.9379
+        Distance: 42.3
+        Variance: 5
+      - RSSI: -39.9993
+        Distance: 42.4
+        Variance: 5
+      - RSSI: -39.9609
+        Distance: 42.5
+        Variance: 5
+      - RSSI: -39.8229
+        Distance: 42.6
+        Variance: 5
+      - RSSI: -39.5867
+        Distance: 42.7
+        Variance: 5
+      - RSSI: -39.2548
+        Distance: 42.8
+        Variance: 5
+      - RSSI: -38.8304
+        Distance: 42.9
+        Variance: 5
+      - RSSI: -38.3177
+        Distance: 43
+        Variance: 5
+      - RSSI: -37.722
+        Distance: 43.1
+        Variance: 5
+      - RSSI: -37.0491
+        Distance: 43.2
+        Variance: 5
+      - RSSI: -36.3058
+        Distance: 43.3
+        Variance: 5
+      - RSSI: -35.4994
+        Distance: 43.4
+        Variance: 5
+      - RSSI: -34.6382
+        Distance: 43.5
+        Variance: 5
+      - RSSI: -33.7305
+        Distance: 43.6
+        Variance: 5
+      - RSSI: -32.7856
+        Distance: 43.7
+        Variance: 5
+      - RSSI: -31.8129
+        Distance: 43.8
+        Variance: 5
+      - RSSI: -30.822
+        Distance: 43.9
+        Variance: 5
+      - RSSI: -29.823
+        Distance: 44
+        Variance: 5
+      - RSSI: -28.8257
+        Distance: 44.1
+        Variance: 5
+      - RSSI: -27.8401
+        Distance: 44.2
+        Variance: 5
+      - RSSI: -26.8761
+        Distance: 44.3
+        Variance: 5
+      - RSSI: -25.9434
+        Distance: 44.4
+        Variance: 5
+      - RSSI: -25.0511
+        Distance: 44.5
+        Variance: 5
+      - RSSI: -24.2084
+        Distance: 44.6
+        Variance: 5
+      - RSSI: -23.4234
+        Distance: 44.7
+        Variance: 5
+      - RSSI: -22.7042
+        Distance: 44.8
+        Variance: 5
+      - RSSI: -22.0579
+        Distance: 44.9
+        Variance: 5
+  - EPC: 120867893
+    Points:
+      - RSSI: -23.294
+        Distance: 40
+        Variance: 5
+      - RSSI: -23.9267
+        Distance: 40.1
+        Variance: 5
+      - RSSI: -24.6202
+        Distance: 40.2
+        Variance: 5
+      - RSSI: -25.3673
+        Distance: 40.3
+        Variance: 5
+      - RSSI: -26.1608
+        Distance: 40.4
+        Variance: 5
+      - RSSI: -26.9926
+        Distance: 40.5
+        Variance: 5
+      - RSSI: -27.8545
+        Distance: 40.6
+        Variance: 5
+      - RSSI: -28.7378
+        Distance: 40.7
+        Variance: 5
+      - RSSI: -29.6338
+        Distance: 40.8
+        Variance: 5
+      - RSSI: -30.5333
+        Distance: 40.9
+        Variance: 5
+      - RSSI: -31.4276
+        Distance: 41
+        Variance: 5
+      - RSSI: -32.3076
+        Distance: 41.1
+        Variance: 5
+      - RSSI: -33.1645
+        Distance: 41.2
+        Variance: 5
+      - RSSI: -33.9899
+        Distance: 41.3
+        Variance: 5
+      - RSSI: -34.7753
+        Distance: 41.4
+        Variance: 5
+      - RSSI: -35.513
+        Distance: 41.5
+        Variance: 5
+      - RSSI: -36.1957
+        Distance: 41.6
+        Variance: 5
+      - RSSI: -36.8164
+        Distance: 41.7
+        Variance: 5
+      - RSSI: -37.3691
+        Distance: 41.8
+        Variance: 5
+      - RSSI: -37.8481
+        Distance: 41.9
+        Variance: 5
+      - RSSI: -38.2487
+        Distance: 42
+        Variance: 5
+      - RSSI: -38.5669
+        Distance: 42.1
+        Variance: 5
+      - RSSI: -38.7995
+        Distance: 42.2
+        Variance: 5
+      - RSSI: -38.9441
+        Distance: 42.3
+        Variance: 5
+      - RSSI: -38.9994
+        Distance: 42.4
+        Variance: 5
+      - RSSI: -38.9648
+        Distance: 42.5
+        Variance: 5
+      - RSSI: -38.8406
+        Distance: 42.6
+        Variance: 5
+      - RSSI: -38.628
+        Distance: 42.7
+        Variance: 5
+      - RSSI: -38.3293
+        Distance: 42.8
+        Variance: 5
+      - RSSI: -37.9473
+        Distance: 42.9
+        Variance: 5
+      - RSSI: -37.486
+        Distance: 43
+        Variance: 5
+      - RSSI: -36.9498
+        Distance: 43.1
+        Variance: 5
+      - RSSI: -36.3442
+        Distance: 43.2
+        Variance: 5
+      - RSSI: -35.6752
+        Distance: 43.3
+        Variance: 5
+      - RSSI: -34.9495
+        Distance: 43.4
+        Variance: 5
+      - RSSI: -34.1743
+        Distance: 43.5
+        Variance: 5
+      - RSSI: -33.3575
+        Distance: 43.6
+        Variance: 5
+      - RSSI: -32.5071
+        Distance: 43.7
+        Variance: 5
+      - RSSI: -31.6316
+        Distance: 43.8
+        Variance: 5
+      - RSSI: -30.7398
+        Distance: 43.9
+        Variance: 5
+      - RSSI: -29.8407
+        Distance: 44
+        Variance: 5
+      - RSSI: -28.9431
+        Distance: 44.1
+        Variance: 5
+      - RSSI: -28.0561
+        Distance: 44.2
+        Variance: 5
+      - RSSI: -27.1885
+        Distance: 44.3
+        Variance: 5
+      - RSSI: -26.349
+        Distance: 44.4
+        Variance: 5
+      - RSSI: -25.546
+        Distance: 44.5
+        Variance: 5
+      - RSSI: -24.7875
+        Distance: 44.6
+        Variance: 5
+      - RSSI: -24.0811
+        Distance: 44.7
+        Variance: 5
+      - RSSI: -23.4338
+        Distance: 44.8
+        Variance: 5
+      - RSSI: -22.8521
+        Distance: 44.9
+        Variance: 5
+      - RSSI: -22.3419
+        Distance: 45
+        Variance: 5
+      - RSSI: -21.9081
+        Distance: 45.1
+        Variance: 5
+      - RSSI: -21.5552
+        Distance: 45.2
+        Variance: 5
+      - RSSI: -21.2867
+        Distance: 45.3
+        Variance: 5
+      - RSSI: -21.1053
+        Distance: 45.4
+        Variance: 5
+      - RSSI: -21.0127
+        Distance: 45.5
+        Variance: 5
+      - RSSI: -21.0099
+        Distance: 45.6
+        Variance: 5
+      - RSSI: -21.0969
+        Distance: 45.7
+        Variance: 5
+      - RSSI: -21.2729
+        Distance: 45.8
+        Variance: 5
+      - RSSI: -21.5361
+        Distance: 45.9
+        Variance: 5
+      - RSSI: -21.8839
+        Distance: 46
+        Variance: 5
+      - RSSI: -22.3128
+        Distance: 46.1
+        Variance: 5
+      - RSSI: -22.8184
+        Distance: 46.2
+        Variance: 5
+      - RSSI: -23.3959
+        Distance: 46.3
+        Variance: 5
+      - RSSI: -24.0393
+        Distance: 46.4
+        Variance: 5
+      - RSSI: -24.7422
+        Distance: 46.5
+        Variance: 5
+      - RSSI: -25.4977
+        Distance: 46.6
+        Variance: 5
+      - RSSI: -26.2982
+        Distance: 46.7
+        Variance: 5
+      - RSSI: -27.1357
+        Distance: 46.8
+        Variance: 5
+      - RSSI: -28.0018
+        Distance: 46.9
+        Variance: 5
+      - RSSI: -28.8878
+        Distance: 47
+        Variance: 5
+      - RSSI: -29.785
+        Distance: 47.1
+        Variance: 5
+      - RSSI: -30.6843
+        Distance: 47.2
+        Variance: 5
+      - RSSI: -31.5768
+        Distance: 47.3
+        Variance: 5
+      - RSSI: -32.4535
+        Distance: 47.4
+        Variance: 5
+      - RSSI: -33.3057
+        Distance: 47.5
+        Variance: 5
+      - RSSI: -34.1249
+        Distance: 47.6
+        Variance: 5
+      - RSSI: -34.9029
+        Distance: 47.7
+        Variance: 5
+      - RSSI: -35.6319
+        Distance: 47.8
+        Variance: 5
+      - RSSI: -36.3046
+        Distance: 47.9
+        Variance: 5
+      - RSSI: -36.9143
+        Distance: 48
+        Variance: 5
+      - RSSI: -37.4549
+        Distance: 48.1
+        Variance: 5
+      - RSSI: -37.9211
+        Distance: 48.2
+        Variance: 5
+      - RSSI: -38.3081
+        Distance: 48.3
+        Variance: 5
+      - RSSI: -38.612
+        Distance: 48.4
+        Variance: 5
+      - RSSI: -38.83
+        Distance: 48.5
+        Variance: 5
+      - RSSI: -38.9597
+        Distance: 48.6
+        Variance: 5
+      - RSSI: -38.9999
+        Distance: 48.7
+        Variance: 5
+      - RSSI: -38.9501
+        Distance: 48.8
+        Variance: 5
+      - RSSI: -38.811
+        Distance: 48.9
+        Variance: 5
+      - RSSI: -38.5838
+        Distance: 49
+        Variance: 5
+      - RSSI: -38.2708
+        Distance: 49.1
+        Variance: 5
+      - RSSI: -37.8752
+        Distance: 49.2
+        Variance: 5
+      - RSSI: -37.4009
+        Distance: 49.3
+        Variance: 5
+      - RSSI: -36.8527
+        Distance: 49.4
+        Variance: 5
+      - RSSI: -36.236
+        Distance: 49.5
+        Variance: 5
+      - RSSI: -35.5569
+        Distance: 49.6
+        Variance: 5
+      - RSSI: -34.8224
+        Distance: 49.7
+        Variance: 5
+      - RSSI: -34.0397
+        Distance: 49.8
+        Variance: 5
+      - RSSI: -33.2166
+        Distance: 49.9
+        Variance: 5
+ForwardTagRSSIMaps:
+  - EPC: 1764989239
+    Points:
+      - RSSI: -30
+        Distance: 0
+        Variance: 5
+      - RSSI: -28.5025
+        Distance: 0.1
+        Variance: 5
+      - RSSI: -27.02
+        Distance: 0.2
+        Variance: 5
+      - RSSI: -25.5672
+        Distance: 0.3
+        Variance: 5
+      - RSSI: -24.1587
+        Distance: 0.4
+        Variance: 5
+      - RSSI: -22.8086
+        Distance: 0.5
+        Variance: 5
+      - RSSI: -21.5304
+        Distance: 0.6
+        Variance: 5
+      - RSSI: -20.3367
+        Distance: 0.7
+        Variance: 5
+      - RSSI: -19.2397
+        Distance: 0.8
+        Variance: 5
+      - RSSI: -18.2501
+        Distance: 0.9
+        Variance: 5
+      - RSSI: -17.3779
+        Distance: 1
+        Variance: 5
+      - RSSI: -16.6319
+        Distance: 1.1
+        Variance: 5
+      - RSSI: -16.0194
+        Distance: 1.2
+        Variance: 5
+      - RSSI: -15.5466
+        Distance: 1.3
+        Variance: 5
+      - RSSI: -15.2183
+        Distance: 1.4
+        Variance: 5
+      - RSSI: -15.0376
+        Distance: 1.5
+        Variance: 5
+      - RSSI: -15.0064
+        Distance: 1.6
+        Variance: 5
+      - RSSI: -15.125
+        Distance: 1.7
+        Variance: 5
+      - RSSI: -15.3923
+        Distance: 1.8
+        Variance: 5
+      - RSSI: -15.8055
+        Distance: 1.9
+        Variance: 5
+      - RSSI: -16.3605
+        Distance: 2
+        Variance: 5
+      - RSSI: -17.0519
+        Distance: 2.1
+        Variance: 5
+      - RSSI: -17.8726
+        Distance: 2.2
+        Variance: 5
+      - RSSI: -18.8144
+        Distance: 2.3
+        Variance: 5
+      - RSSI: -19.8681
+        Distance: 2.4
+        Variance: 5
+      - RSSI: -21.0229
+        Distance: 2.5
+        Variance: 5
+      - RSSI: -22.2675
+        Distance: 2.6
+        Variance: 5
+      - RSSI: -23.5893
+        Distance: 2.7
+        Variance: 5
+      - RSSI: -24.9752
+        Distance: 2.8
+        Variance: 5
+      - RSSI: -26.4113
+        Distance: 2.9
+        Variance: 5
+      - RSSI: -27.8832
+        Distance: 3
+        Variance: 5
+      - RSSI: -29.3763
+        Distance: 3.1
+        Variance: 5
+      - RSSI: -30.8756
+        Distance: 3.2
+        Variance: 5
+      - RSSI: -32.3662
+        Distance: 3.3
+        Variance: 5
+      - RSSI: -33.8331
+        Distance: 3.4
+        Variance: 5
+      - RSSI: -35.2617
+        Distance: 3.5
+        Variance: 5
+      - RSSI: -36.6378
+        Distance: 3.6
+        Variance: 5
+      - RSSI: -37.9475
+        Distance: 3.7
+        Variance: 5
+      - RSSI: -39.1779
+        Distance: 3.8
+        Variance: 5
+      - RSSI: -40.3165
+        Distance: 3.9
+        Variance: 5
+      - RSSI: -41.352
+        Distance: 4
+        Variance: 5
+      - RSSI: -42.2742
+        Distance: 4.1
+        Variance: 5
+      - RSSI: -43.0736
+        Distance: 4.2
+        Variance: 5
+      - RSSI: -43.7425
+        Distance: 4.3
+        Variance: 5
+      - RSSI: -44.274
+        Distance: 4.4
+        Variance: 5
+      - RSSI: -44.663
+        Distance: 4.5
+        Variance: 5
+      - RSSI: -44.9054
+        Distance: 4.6
+        Variance: 5
+      - RSSI: -44.9988
+        Distance: 4.7
+        Variance: 5
+      - RSSI: -44.9425
+        Distance: 4.8
+        Variance: 5
+      - RSSI: -44.7368
+        Distance: 4.9
+        Variance: 5
+      - RSSI: -44.3839
+        Distance: 5
+        Variance: 5
+      - RSSI: -43.8872
+        Distance: 5.1
+        Variance: 5
+      - RSSI: -43.2518
+        Distance: 5.2
+        Variance: 5
+      - RSSI: -42.484
+        Distance: 5.3
+        Variance: 5
+      - RSSI: -41.5915
+        Distance: 5.4
+        Variance: 5
+      - RSSI: -40.5831
+        Distance: 5.5
+        Variance: 5
+      - RSSI: -39.469
+        Distance: 5.6
+        Variance: 5
+      - RSSI: -38.2603
+        Distance: 5.7
+        Variance: 5
+      - RSSI: -36.969
+        Distance: 5.8
+        Variance: 5
+      - RSSI: -35.6081
+        Distance: 5.9
+        Variance: 5
+      - RSSI: -34.1912
+        Distance: 6
+        Variance: 5
+      - RSSI: -32.7324
+        Distance: 6.1
+        Variance: 5
+      - RSSI: -31.2463
+        Distance: 6.2
+        Variance: 5
+      - RSSI: -29.7478
+        Distance: 6.3
+        Variance: 5
+      - RSSI: -28.2518
+        Distance: 6.4
+        Variance: 5
+      - RSSI: -26.7732
+        Distance: 6.5
+        Variance: 5
+      - RSSI: -25.3269
+        Distance: 6.6
+        Variance: 5
+      - RSSI: -23.9273
+        Distance: 6.7
+        Variance: 5
+      - RSSI: -22.5883
+        Distance: 6.8
+        Variance: 5
+      - RSSI: -21.3234
+        Distance: 6.9
+        Variance: 5
+      - RSSI: -20.1452
+        Distance: 7
+        Variance: 5
+      - RSSI: -19.0655
+        Distance: 7.1
+        Variance: 5
+      - RSSI: -18.095
+        Distance: 7.2
+        Variance: 5
+      - RSSI: -17.2435
+        Distance: 7.3
+        Variance: 5
+      - RSSI: -16.5194
+        Distance: 7.4
+        Variance: 5
+      - RSSI: -15.93
+        Distance: 7.5
+        Variance: 5
+      - RSSI: -15.4812
+        Distance: 7.6
+        Variance: 5
+      - RSSI: -15.1775
+        Distance: 7.7
+        Variance: 5
+      - RSSI: -15.0218
+        Distance: 7.8
+        Variance: 5
+      - RSSI: -15.0159
+        Distance: 7.9
+        Variance: 5
+      - RSSI: -15.1596
+        Distance: 8
+        Variance: 5
+      - RSSI: -15.4517
+        Distance: 8.1
+        Variance: 5
+      - RSSI: -15.889
+        Distance: 8.2
+        Variance: 5
+      - RSSI: -16.4674
+        Distance: 8.3
+        Variance: 5
+      - RSSI: -17.181
+        Distance: 8.4
+        Variance: 5
+      - RSSI: -18.0227
+        Distance: 8.5
+        Variance: 5
+      - RSSI: -18.984
+        Distance: 8.6
+        Variance: 5
+      - RSSI: -20.0555
+        Distance: 8.7
+        Variance: 5
+      - RSSI: -21.2262
+        Distance: 8.8
+        Variance: 5
+      - RSSI: -22.4847
+        Distance: 8.9
+        Variance: 5
+      - RSSI: -23.8182
+        Distance: 9
+        Variance: 5
+      - RSSI: -25.2135
+        Distance: 9.1
+        Variance: 5
+      - RSSI: -26.6567
+        Distance: 9.2
+        Variance: 5
+      - RSSI: -28.1332
+        Distance: 9.3
+        Variance: 5
+      - RSSI: -29.6284
+        Distance: 9.4
+        Variance: 5
+      - RSSI: -31.1273
+        Distance: 9.5
+        Variance: 5
+      - RSSI: -32.6149
+        Distance: 9.6
+        Variance: 5
+      - RSSI: -34.0764
+        Distance: 9.7
+        Variance: 5
+      - RSSI: -35.4972
+        Distance: 9.8
+        Variance: 5
+      - RSSI: -36.863
+        Distance: 9.9
+        Variance: 5
+      - RSSI: -38.1603
+        Distance: 10
+        Variance: 5
+ReverseTagRSSIMaps:
+  - EPC: 1764989243
+    Points:
+      - RSSI: -30
+        Distance: 0
+        Variance: 5
+      - RSSI: -28.5025
+        Distance: 0.1
+        Variance: 5
+      - RSSI: -27.02
+        Distance: 0.2
+        Variance: 5
+      - RSSI: -25.5672
+        Distance: 0.3
+        Variance: 5
+      - RSSI: -24.1587
+        Distance: 0.4
+        Variance: 5
+      - RSSI: -22.8086
+        Distance: 0.5
+        Variance: 5
+      - RSSI: -21.5304
+        Distance: 0.6
+        Variance: 5
+      - RSSI: -20.3367
+        Distance: 0.7
+        Variance: 5
+      - RSSI: -19.2397
+        Distance: 0.8
+        Variance: 5
+      - RSSI: -18.2501
+        Distance: 0.9
+        Variance: 5
+      - RSSI: -17.3779
+        Distance: 1
+        Variance: 5
+      - RSSI: -16.6319
+        Distance: 1.1
+        Variance: 5
+      - RSSI: -16.0194
+        Distance: 1.2
+        Variance: 5
+      - RSSI: -15.5466
+        Distance: 1.3
+        Variance: 5
+      - RSSI: -15.2183
+        Distance: 1.4
+        Variance: 5
+      - RSSI: -15.0376
+        Distance: 1.5
+        Variance: 5
+      - RSSI: -15.0064
+        Distance: 1.6
+        Variance: 5
+      - RSSI: -15.125
+        Distance: 1.7
+        Variance: 5
+      - RSSI: -15.3923
+        Distance: 1.8
+        Variance: 5
+      - RSSI: -15.8055
+        Distance: 1.9
+        Variance: 5
+      - RSSI: -16.3605
+        Distance: 2
+        Variance: 5
+      - RSSI: -17.0519
+        Distance: 2.1
+        Variance: 5
+      - RSSI: -17.8726
+        Distance: 2.2
+        Variance: 5
+      - RSSI: -18.8144
+        Distance: 2.3
+        Variance: 5
+      - RSSI: -19.8681
+        Distance: 2.4
+        Variance: 5
+      - RSSI: -21.0229
+        Distance: 2.5
+        Variance: 5
+      - RSSI: -22.2675
+        Distance: 2.6
+        Variance: 5
+      - RSSI: -23.5893
+        Distance: 2.7
+        Variance: 5
+      - RSSI: -24.9752
+        Distance: 2.8
+        Variance: 5
+      - RSSI: -26.4113
+        Distance: 2.9
+        Variance: 5
+      - RSSI: -27.8832
+        Distance: 3
+        Variance: 5
+      - RSSI: -29.3763
+        Distance: 3.1
+        Variance: 5
+      - RSSI: -30.8756
+        Distance: 3.2
+        Variance: 5
+      - RSSI: -32.3662
+        Distance: 3.3
+        Variance: 5
+      - RSSI: -33.8331
+        Distance: 3.4
+        Variance: 5
+      - RSSI: -35.2617
+        Distance: 3.5
+        Variance: 5
+      - RSSI: -36.6378
+        Distance: 3.6
+        Variance: 5
+      - RSSI: -37.9475
+        Distance: 3.7
+        Variance: 5
+      - RSSI: -39.1779
+        Distance: 3.8
+        Variance: 5
+      - RSSI: -40.3165
+        Distance: 3.9
+        Variance: 5
+      - RSSI: -41.352
+        Distance: 4
+        Variance: 5
+      - RSSI: -42.2742
+        Distance: 4.1
+        Variance: 5
+      - RSSI: -43.0736
+        Distance: 4.2
+        Variance: 5
+      - RSSI: -43.7425
+        Distance: 4.3
+        Variance: 5
+      - RSSI: -44.274
+        Distance: 4.4
+        Variance: 5
+      - RSSI: -44.663
+        Distance: 4.5
+        Variance: 5
+      - RSSI: -44.9054
+        Distance: 4.6
+        Variance: 5
+      - RSSI: -44.9988
+        Distance: 4.7
+        Variance: 5
+      - RSSI: -44.9425
+        Distance: 4.8
+        Variance: 5
+      - RSSI: -44.7368
+        Distance: 4.9
+        Variance: 5
+      - RSSI: -44.3839
+        Distance: 5
+        Variance: 5
+      - RSSI: -43.8872
+        Distance: 5.1
+        Variance: 5
+      - RSSI: -43.2518
+        Distance: 5.2
+        Variance: 5
+      - RSSI: -42.484
+        Distance: 5.3
+        Variance: 5
+      - RSSI: -41.5915
+        Distance: 5.4
+        Variance: 5
+      - RSSI: -40.5831
+        Distance: 5.5
+        Variance: 5
+      - RSSI: -39.469
+        Distance: 5.6
+        Variance: 5
+      - RSSI: -38.2603
+        Distance: 5.7
+        Variance: 5
+      - RSSI: -36.969
+        Distance: 5.8
+        Variance: 5
+      - RSSI: -35.6081
+        Distance: 5.9
+        Variance: 5
+      - RSSI: -34.1912
+        Distance: 6
+        Variance: 5
+      - RSSI: -32.7324
+        Distance: 6.1
+        Variance: 5
+      - RSSI: -31.2463
+        Distance: 6.2
+        Variance: 5
+      - RSSI: -29.7478
+        Distance: 6.3
+        Variance: 5
+      - RSSI: -28.2518
+        Distance: 6.4
+        Variance: 5
+      - RSSI: -26.7732
+        Distance: 6.5
+        Variance: 5
+      - RSSI: -25.3269
+        Distance: 6.6
+        Variance: 5
+      - RSSI: -23.9273
+        Distance: 6.7
+        Variance: 5
+      - RSSI: -22.5883
+        Distance: 6.8
+        Variance: 5
+      - RSSI: -21.3234
+        Distance: 6.9
+        Variance: 5
+      - RSSI: -20.1452
+        Distance: 7
+        Variance: 5
+      - RSSI: -19.0655
+        Distance: 7.1
+        Variance: 5
+      - RSSI: -18.095
+        Distance: 7.2
+        Variance: 5
+      - RSSI: -17.2435
+        Distance: 7.3
+        Variance: 5
+      - RSSI: -16.5194
+        Distance: 7.4
+        Variance: 5
+      - RSSI: -15.93
+        Distance: 7.5
+        Variance: 5
+      - RSSI: -15.4812
+        Distance: 7.6
+        Variance: 5
+      - RSSI: -15.1775
+        Distance: 7.7
+        Variance: 5
+      - RSSI: -15.0218
+        Distance: 7.8
+        Variance: 5
+      - RSSI: -15.0159
+        Distance: 7.9
+        Variance: 5
+      - RSSI: -15.1596
+        Distance: 8
+        Variance: 5
+      - RSSI: -15.4517
+        Distance: 8.1
+        Variance: 5
+      - RSSI: -15.889
+        Distance: 8.2
+        Variance: 5
+      - RSSI: -16.4674
+        Distance: 8.3
+        Variance: 5
+      - RSSI: -17.181
+        Distance: 8.4
+        Variance: 5
+      - RSSI: -18.0227
+        Distance: 8.5
+        Variance: 5
+      - RSSI: -18.984
+        Distance: 8.6
+        Variance: 5
+      - RSSI: -20.0555
+        Distance: 8.7
+        Variance: 5
+      - RSSI: -21.2262
+        Distance: 8.8
+        Variance: 5
+      - RSSI: -22.4847
+        Distance: 8.9
+        Variance: 5
+      - RSSI: -23.8182
+        Distance: 9
+        Variance: 5
+      - RSSI: -25.2135
+        Distance: 9.1
+        Variance: 5
+      - RSSI: -26.6567
+        Distance: 9.2
+        Variance: 5
+      - RSSI: -28.1332
+        Distance: 9.3
+        Variance: 5
+      - RSSI: -29.6284
+        Distance: 9.4
+        Variance: 5
+      - RSSI: -31.1273
+        Distance: 9.5
+        Variance: 5
+      - RSSI: -32.6149
+        Distance: 9.6
+        Variance: 5
+      - RSSI: -34.0764
+        Distance: 9.7
+        Variance: 5
+      - RSSI: -35.4972
+        Distance: 9.8
+        Variance: 5
+      - RSSI: -36.863
+        Distance: 9.9
+        Variance: 5
+      - RSSI: -38.1603
+        Distance: 10
+        Variance: 5

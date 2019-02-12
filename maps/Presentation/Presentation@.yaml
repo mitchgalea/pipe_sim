@@ -1,0 +1,2407 @@
+Name: map
+ForwardTagRSSIMaps:
+  - EPC: 1555111659
+    Points:
+      - Distance: 0.000000
+        RSSI: -30.043150
+        Variance: 1.613408
+      - Distance: 0.005000
+        RSSI: -30.034942
+        Variance: 1.604072
+      - Distance: 0.010000
+        RSSI: -30.033615
+        Variance: 1.594936
+      - Distance: 0.015000
+        RSSI: -30.039246
+        Variance: 1.586008
+      - Distance: 0.020000
+        RSSI: -30.051900
+        Variance: 1.577298
+      - Distance: 0.025000
+        RSSI: -30.071640
+        Variance: 1.568813
+      - Distance: 0.030000
+        RSSI: -30.098515
+        Variance: 1.560561
+      - Distance: 0.035000
+        RSSI: -30.132571
+        Variance: 1.552549
+      - Distance: 0.040000
+        RSSI: -30.173844
+        Variance: 1.544785
+      - Distance: 0.045000
+        RSSI: -30.222359
+        Variance: 1.537273
+      - Distance: 0.050000
+        RSSI: -30.278135
+        Variance: 1.530020
+      - Distance: 0.055000
+        RSSI: -30.341182
+        Variance: 1.523032
+      - Distance: 0.060000
+        RSSI: -30.411499
+        Variance: 1.516312
+      - Distance: 0.065000
+        RSSI: -30.489076
+        Variance: 1.509864
+      - Distance: 0.070000
+        RSSI: -30.573894
+        Variance: 1.503692
+      - Distance: 0.075000
+        RSSI: -30.665925
+        Variance: 1.497799
+      - Distance: 0.080000
+        RSSI: -30.765130
+        Variance: 1.492188
+      - Distance: 0.085000
+        RSSI: -30.871459
+        Variance: 1.486859
+      - Distance: 0.090000
+        RSSI: -30.984854
+        Variance: 1.481814
+      - Distance: 0.095000
+        RSSI: -31.105247
+        Variance: 1.477053
+      - Distance: 0.100000
+        RSSI: -31.232558
+        Variance: 1.472577
+      - Distance: 0.105000
+        RSSI: -31.366700
+        Variance: 1.468385
+      - Distance: 0.110000
+        RSSI: -31.507573
+        Variance: 1.464475
+      - Distance: 0.115000
+        RSSI: -31.655069
+        Variance: 1.460847
+      - Distance: 0.120000
+        RSSI: -31.809071
+        Variance: 1.457498
+      - Distance: 0.125000
+        RSSI: -31.969450
+        Variance: 1.454425
+      - Distance: 0.130000
+        RSSI: -32.136071
+        Variance: 1.451626
+      - Distance: 0.135000
+        RSSI: -32.308788
+        Variance: 1.449096
+      - Distance: 0.140000
+        RSSI: -32.487447
+        Variance: 1.446832
+      - Distance: 0.145000
+        RSSI: -32.671886
+        Variance: 1.444829
+      - Distance: 0.150000
+        RSSI: -32.861933
+        Variance: 1.443083
+      - Distance: 0.155000
+        RSSI: -33.057411
+        Variance: 1.441588
+      - Distance: 0.160000
+        RSSI: -33.258136
+        Variance: 1.440339
+      - Distance: 0.165000
+        RSSI: -33.463914
+        Variance: 1.439331
+      - Distance: 0.170000
+        RSSI: -33.674549
+        Variance: 1.438558
+      - Distance: 0.175000
+        RSSI: -33.889838
+        Variance: 1.438013
+      - Distance: 0.180000
+        RSSI: -34.109571
+        Variance: 1.437690
+      - Distance: 0.185000
+        RSSI: -34.333535
+        Variance: 1.437583
+      - Distance: 0.190000
+        RSSI: -34.561515
+        Variance: 1.437686
+      - Distance: 0.195000
+        RSSI: -34.793289
+        Variance: 1.437992
+      - Distance: 0.200000
+        RSSI: -35.028636
+        Variance: 1.438494
+      - Distance: 0.205000
+        RSSI: -35.267330
+        Variance: 1.439186
+      - Distance: 0.210000
+        RSSI: -35.509146
+        Variance: 1.440061
+      - Distance: 0.215000
+        RSSI: -35.753857
+        Variance: 1.441114
+      - Distance: 0.220000
+        RSSI: -36.001236
+        Variance: 1.442337
+      - Distance: 0.225000
+        RSSI: -36.251056
+        Variance: 1.443726
+      - Distance: 0.230000
+        RSSI: -36.503094
+        Variance: 1.445274
+      - Distance: 0.235000
+        RSSI: -36.757125
+        Variance: 1.446975
+      - Distance: 0.240000
+        RSSI: -37.012929
+        Variance: 1.448824
+      - Distance: 0.245000
+        RSSI: -37.270289
+        Variance: 1.450816
+      - Distance: 0.250000
+        RSSI: -37.528990
+        Variance: 1.452947
+      - Distance: 0.255000
+        RSSI: -37.788823
+        Variance: 1.455212
+      - Distance: 0.260000
+        RSSI: -38.049582
+        Variance: 1.457606
+      - Distance: 0.265000
+        RSSI: -38.311066
+        Variance: 1.460127
+      - Distance: 0.270000
+        RSSI: -38.573081
+        Variance: 1.462770
+      - Distance: 0.275000
+        RSSI: -38.835438
+        Variance: 1.465533
+      - Distance: 0.280000
+        RSSI: -39.097954
+        Variance: 1.468414
+      - Distance: 0.285000
+        RSSI: -39.360453
+        Variance: 1.471410
+      - Distance: 0.290000
+        RSSI: -39.622764
+        Variance: 1.474519
+      - Distance: 0.295000
+        RSSI: -39.884726
+        Variance: 1.477741
+      - Distance: 0.300000
+        RSSI: -40.146183
+        Variance: 1.481073
+      - Distance: 0.305000
+        RSSI: -40.406985
+        Variance: 1.484517
+      - Distance: 0.310000
+        RSSI: -40.666992
+        Variance: 1.488071
+      - Distance: 0.315000
+        RSSI: -40.926069
+        Variance: 1.491735
+      - Distance: 0.320000
+        RSSI: -41.184088
+        Variance: 1.495510
+      - Distance: 0.325000
+        RSSI: -41.440930
+        Variance: 1.499398
+      - Distance: 0.330000
+        RSSI: -41.696480
+        Variance: 1.503398
+      - Distance: 0.335000
+        RSSI: -41.950631
+        Variance: 1.507512
+      - Distance: 0.340000
+        RSSI: -42.203282
+        Variance: 1.511742
+      - Distance: 0.345000
+        RSSI: -42.454338
+        Variance: 1.516089
+      - Distance: 0.350000
+        RSSI: -42.703709
+        Variance: 1.520556
+      - Distance: 0.355000
+        RSSI: -42.951310
+        Variance: 1.525143
+      - Distance: 0.360000
+        RSSI: -43.197062
+        Variance: 1.529853
+      - Distance: 0.365000
+        RSSI: -43.440887
+        Variance: 1.534688
+      - Distance: 0.370000
+        RSSI: -43.682715
+        Variance: 1.539649
+      - Distance: 0.375000
+        RSSI: -43.922475
+        Variance: 1.544739
+      - Distance: 0.380000
+        RSSI: -44.160102
+        Variance: 1.549959
+      - Distance: 0.385000
+        RSSI: -44.395530
+        Variance: 1.555310
+      - Distance: 0.390000
+        RSSI: -44.628697
+        Variance: 1.560793
+      - Distance: 0.395000
+        RSSI: -44.859540
+        Variance: 1.566409
+      - Distance: 0.400000
+        RSSI: -45.087997
+        Variance: 1.572159
+      - Distance: 0.405000
+        RSSI: -45.314006
+        Variance: 1.578042
+      - Distance: 0.410000
+        RSSI: -45.537504
+        Variance: 1.584058
+      - Distance: 0.415000
+        RSSI: -45.758426
+        Variance: 1.590206
+      - Distance: 0.420000
+        RSSI: -45.976706
+        Variance: 1.596484
+      - Distance: 0.425000
+        RSSI: -46.192275
+        Variance: 1.602890
+      - Distance: 0.430000
+        RSSI: -46.405062
+        Variance: 1.609421
+      - Distance: 0.435000
+        RSSI: -46.614992
+        Variance: 1.616074
+      - Distance: 0.440000
+        RSSI: -46.821986
+        Variance: 1.622844
+      - Distance: 0.445000
+        RSSI: -47.025963
+        Variance: 1.629727
+      - Distance: 0.450000
+        RSSI: -47.226835
+        Variance: 1.636716
+      - Distance: 0.455000
+        RSSI: -47.424512
+        Variance: 1.643804
+      - Distance: 0.460000
+        RSSI: -47.618898
+        Variance: 1.650985
+      - Distance: 0.465000
+        RSSI: -47.809893
+        Variance: 1.658251
+      - Distance: 0.470000
+        RSSI: -47.997391
+        Variance: 1.665591
+      - Distance: 0.475000
+        RSSI: -48.181283
+        Variance: 1.672997
+      - Distance: 0.480000
+        RSSI: -48.361455
+        Variance: 1.680457
+      - Distance: 0.485000
+        RSSI: -48.537786
+        Variance: 1.687960
+      - Distance: 0.490000
+        RSSI: -48.710154
+        Variance: 1.695493
+      - Distance: 0.495000
+        RSSI: -48.878431
+        Variance: 1.703044
+      - Distance: 0.500000
+        RSSI: -49.042485
+        Variance: 1.710599
+      - Distance: 0.505000
+        RSSI: -49.202181
+        Variance: 1.718143
+      - Distance: 0.510000
+        RSSI: -49.357381
+        Variance: 1.725661
+      - Distance: 0.515000
+        RSSI: -49.507945
+        Variance: 1.733138
+      - Distance: 0.520000
+        RSSI: -49.653730
+        Variance: 1.740558
+      - Distance: 0.525000
+        RSSI: -49.794592
+        Variance: 1.747904
+      - Distance: 0.530000
+        RSSI: -49.930386
+        Variance: 1.755158
+      - Distance: 0.535000
+        RSSI: -50.060968
+        Variance: 1.762305
+      - Distance: 0.540000
+        RSSI: -50.186191
+        Variance: 1.769327
+      - Distance: 0.545000
+        RSSI: -50.305914
+        Variance: 1.776205
+      - Distance: 0.550000
+        RSSI: -50.419994
+        Variance: 1.782923
+      - Distance: 0.555000
+        RSSI: -50.528293
+        Variance: 1.789463
+      - Distance: 0.560000
+        RSSI: -50.630676
+        Variance: 1.795809
+      - Distance: 0.565000
+        RSSI: -50.727012
+        Variance: 1.801943
+      - Distance: 0.570000
+        RSSI: -50.817173
+        Variance: 1.807849
+      - Distance: 0.575000
+        RSSI: -50.901041
+        Variance: 1.813510
+      - Distance: 0.580000
+        RSSI: -50.978501
+        Variance: 1.818913
+      - Distance: 0.585000
+        RSSI: -51.049445
+        Variance: 1.824042
+      - Distance: 0.590000
+        RSSI: -51.113776
+        Variance: 1.828883
+      - Distance: 0.595000
+        RSSI: -51.171402
+        Variance: 1.833425
+      - Distance: 0.600000
+        RSSI: -51.222242
+        Variance: 1.837655
+      - Distance: 0.605000
+        RSSI: -51.266224
+        Variance: 1.841564
+      - Distance: 0.610000
+        RSSI: -51.303287
+        Variance: 1.845142
+      - Distance: 0.615000
+        RSSI: -51.333378
+        Variance: 1.848381
+      - Distance: 0.620000
+        RSSI: -51.356459
+        Variance: 1.851276
+      - Distance: 0.625000
+        RSSI: -51.372500
+        Variance: 1.853822
+      - Distance: 0.630000
+        RSSI: -51.381483
+        Variance: 1.856016
+      - Distance: 0.635000
+        RSSI: -51.383404
+        Variance: 1.857858
+      - Distance: 0.640000
+        RSSI: -51.378268
+        Variance: 1.859347
+      - Distance: 0.645000
+        RSSI: -51.366095
+        Variance: 1.860486
+      - Distance: 0.650000
+        RSSI: -51.346913
+        Variance: 1.861280
+      - Distance: 0.655000
+        RSSI: -51.320766
+        Variance: 1.861735
+      - Distance: 0.660000
+        RSSI: -51.287707
+        Variance: 1.861860
+      - Distance: 0.665000
+        RSSI: -51.247802
+        Variance: 1.861665
+      - Distance: 0.670000
+        RSSI: -51.201126
+        Variance: 1.861162
+      - Distance: 0.675000
+        RSSI: -51.147766
+        Variance: 1.860366
+      - Distance: 0.680000
+        RSSI: -51.087821
+        Variance: 1.859293
+      - Distance: 0.685000
+        RSSI: -51.021397
+        Variance: 1.857961
+      - Distance: 0.690000
+        RSSI: -50.948610
+        Variance: 1.856391
+      - Distance: 0.695000
+        RSSI: -50.869586
+        Variance: 1.854605
+      - Distance: 0.700000
+        RSSI: -50.784457
+        Variance: 1.852625
+      - Distance: 0.705000
+        RSSI: -50.693362
+        Variance: 1.850479
+      - Distance: 0.710000
+        RSSI: -50.596450
+        Variance: 1.848192
+      - Distance: 0.715000
+        RSSI: -50.493871
+        Variance: 1.845794
+      - Distance: 0.720000
+        RSSI: -50.385782
+        Variance: 1.843315
+      - Distance: 0.725000
+        RSSI: -50.272346
+        Variance: 1.840785
+      - Distance: 0.730000
+        RSSI: -50.153725
+        Variance: 1.838237
+      - Distance: 0.735000
+        RSSI: -50.030086
+        Variance: 1.835704
+      - Distance: 0.740000
+        RSSI: -49.901597
+        Variance: 1.833221
+      - Distance: 0.745000
+        RSSI: -49.768426
+        Variance: 1.830822
+      - Distance: 0.750000
+        RSSI: -49.630743
+        Variance: 1.828542
+      - Distance: 0.755000
+        RSSI: -49.488714
+        Variance: 1.826418
+      - Distance: 0.760000
+        RSSI: -49.342505
+        Variance: 1.824486
+      - Distance: 0.765000
+        RSSI: -49.192279
+        Variance: 1.822779
+      - Distance: 0.770000
+        RSSI: -49.038197
+        Variance: 1.821336
+      - Distance: 0.775000
+        RSSI: -48.880414
+        Variance: 1.820190
+      - Distance: 0.780000
+        RSSI: -48.719082
+        Variance: 1.819375
+      - Distance: 0.785000
+        RSSI: -48.554348
+        Variance: 1.818927
+      - Distance: 0.790000
+        RSSI: -48.386354
+        Variance: 1.818878
+      - Distance: 0.795000
+        RSSI: -48.215235
+        Variance: 1.819259
+      - Distance: 0.800000
+        RSSI: -48.041121
+        Variance: 1.820100
+      - Distance: 0.805000
+        RSSI: -47.864134
+        Variance: 1.821432
+      - Distance: 0.810000
+        RSSI: -47.684392
+        Variance: 1.823280
+      - Distance: 0.815000
+        RSSI: -47.502005
+        Variance: 1.825671
+      - Distance: 0.820000
+        RSSI: -47.317075
+        Variance: 1.828628
+      - Distance: 0.825000
+        RSSI: -47.129699
+        Variance: 1.832172
+      - Distance: 0.830000
+        RSSI: -46.939967
+        Variance: 1.836323
+      - Distance: 0.835000
+        RSSI: -46.747963
+        Variance: 1.841098
+      - Distance: 0.840000
+        RSSI: -46.553764
+        Variance: 1.846510
+      - Distance: 0.845000
+        RSSI: -46.357441
+        Variance: 1.852574
+      - Distance: 0.850000
+        RSSI: -46.159061
+        Variance: 1.859297
+      - Distance: 0.855000
+        RSSI: -45.958686
+        Variance: 1.866686
+      - Distance: 0.860000
+        RSSI: -45.756372
+        Variance: 1.874747
+      - Distance: 0.865000
+        RSSI: -45.552173
+        Variance: 1.883480
+      - Distance: 0.870000
+        RSSI: -45.346138
+        Variance: 1.892885
+      - Distance: 0.875000
+        RSSI: -45.138314
+        Variance: 1.902958
+      - Distance: 0.880000
+        RSSI: -44.928748
+        Variance: 1.913692
+      - Distance: 0.885000
+        RSSI: -44.717484
+        Variance: 1.925078
+      - Distance: 0.890000
+        RSSI: -44.504564
+        Variance: 1.937105
+      - Distance: 0.895000
+        RSSI: -44.290035
+        Variance: 1.949759
+      - Distance: 0.900000
+        RSSI: -44.073940
+        Variance: 1.963024
+      - Distance: 0.905000
+        RSSI: -43.856327
+        Variance: 1.976881
+      - Distance: 0.910000
+        RSSI: -43.637245
+        Variance: 1.991310
+      - Distance: 0.915000
+        RSSI: -43.416748
+        Variance: 2.006287
+      - Distance: 0.920000
+        RSSI: -43.194892
+        Variance: 2.021788
+      - Distance: 0.925000
+        RSSI: -42.971738
+        Variance: 2.037787
+      - Distance: 0.930000
+        RSSI: -42.747355
+        Variance: 2.054257
+      - Distance: 0.935000
+        RSSI: -42.521814
+        Variance: 2.071168
+      - Distance: 0.940000
+        RSSI: -42.295195
+        Variance: 2.088490
+      - Distance: 0.945000
+        RSSI: -42.067584
+        Variance: 2.106192
+      - Distance: 0.950000
+        RSSI: -41.839074
+        Variance: 2.124242
+      - Distance: 0.955000
+        RSSI: -41.609767
+        Variance: 2.142608
+      - Distance: 0.960000
+        RSSI: -41.379773
+        Variance: 2.161256
+      - Distance: 0.965000
+        RSSI: -41.149209
+        Variance: 2.180155
+      - Distance: 0.970000
+        RSSI: -40.918201
+        Variance: 2.199270
+      - Distance: 0.975000
+        RSSI: -40.686884
+        Variance: 2.218570
+      - Distance: 0.980000
+        RSSI: -40.455401
+        Variance: 2.238023
+      - Distance: 0.985000
+        RSSI: -40.223904
+        Variance: 2.257597
+      - Distance: 0.990000
+        RSSI: -39.992554
+        Variance: 2.277262
+      - Distance: 0.995000
+        RSSI: -39.761518
+        Variance: 2.296989
+      - Distance: 1.000000
+        RSSI: -39.530972
+        Variance: 2.316749
+      - Distance: 1.005000
+        RSSI: -39.301100
+        Variance: 2.336516
+      - Distance: 1.010000
+        RSSI: -39.072093
+        Variance: 2.356264
+      - Distance: 1.015000
+        RSSI: -38.844148
+        Variance: 2.375971
+      - Distance: 1.020000
+        RSSI: -38.617468
+        Variance: 2.395614
+      - Distance: 1.025000
+        RSSI: -38.392260
+        Variance: 2.415175
+      - Distance: 1.030000
+        RSSI: -38.168739
+        Variance: 2.434635
+      - Distance: 1.035000
+        RSSI: -37.947122
+        Variance: 2.453979
+      - Distance: 1.040000
+        RSSI: -37.727628
+        Variance: 2.473193
+      - Distance: 1.045000
+        RSSI: -37.510481
+        Variance: 2.492267
+      - Distance: 1.050000
+        RSSI: -37.295904
+        Variance: 2.511193
+      - Distance: 1.055000
+        RSSI: -37.084122
+        Variance: 2.529962
+      - Distance: 1.060000
+        RSSI: -36.875361
+        Variance: 2.548572
+      - Distance: 1.065000
+        RSSI: -36.669844
+        Variance: 2.567019
+      - Distance: 1.070000
+        RSSI: -36.467793
+        Variance: 2.585305
+      - Distance: 1.075000
+        RSSI: -36.269427
+        Variance: 2.603430
+      - Distance: 1.080000
+        RSSI: -36.074962
+        Variance: 2.621401
+      - Distance: 1.085000
+        RSSI: -35.884608
+        Variance: 2.639221
+      - Distance: 1.090000
+        RSSI: -35.698572
+        Variance: 2.656901
+      - Distance: 1.095000
+        RSSI: -35.517053
+        Variance: 2.674448
+      - Distance: 1.100000
+        RSSI: -35.340244
+        Variance: 2.691874
+      - Distance: 1.105000
+        RSSI: -35.168331
+        Variance: 2.709192
+      - Distance: 1.110000
+        RSSI: -35.001491
+        Variance: 2.726415
+      - Distance: 1.115000
+        RSSI: -34.839892
+        Variance: 2.743558
+      - Distance: 1.120000
+        RSSI: -34.683695
+        Variance: 2.760635
+      - Distance: 1.125000
+        RSSI: -34.533048
+        Variance: 2.777664
+      - Distance: 1.130000
+        RSSI: -34.388091
+        Variance: 2.794660
+      - Distance: 1.135000
+        RSSI: -34.248952
+        Variance: 2.811640
+      - Distance: 1.140000
+        RSSI: -34.115751
+        Variance: 2.828619
+      - Distance: 1.145000
+        RSSI: -33.988594
+        Variance: 2.845616
+      - Distance: 1.150000
+        RSSI: -33.867577
+        Variance: 2.862644
+      - Distance: 1.155000
+        RSSI: -33.752784
+        Variance: 2.879718
+      - Distance: 1.160000
+        RSSI: -33.644290
+        Variance: 2.896854
+      - Distance: 1.165000
+        RSSI: -33.542157
+        Variance: 2.914063
+      - Distance: 1.170000
+        RSSI: -33.446435
+        Variance: 2.931357
+      - Distance: 1.175000
+        RSSI: -33.357165
+        Variance: 2.948746
+      - Distance: 1.180000
+        RSSI: -33.274378
+        Variance: 2.966237
+      - Distance: 1.185000
+        RSSI: -33.198092
+        Variance: 2.983838
+      - Distance: 1.190000
+        RSSI: -33.128319
+        Variance: 3.001551
+      - Distance: 1.195000
+        RSSI: -33.065057
+        Variance: 3.019380
+      - Distance: 1.200000
+        RSSI: -33.008299
+        Variance: 3.037322
+      - Distance: 1.205000
+        RSSI: -32.958026
+        Variance: 3.055376
+      - Distance: 1.210000
+        RSSI: -32.914215
+        Variance: 3.073536
+      - Distance: 1.215000
+        RSSI: -32.876833
+        Variance: 3.091793
+      - Distance: 1.220000
+        RSSI: -32.845841
+        Variance: 3.110136
+      - Distance: 1.225000
+        RSSI: -32.821193
+        Variance: 3.128552
+      - Distance: 1.230000
+        RSSI: -32.802840
+        Variance: 3.147024
+      - Distance: 1.235000
+        RSSI: -32.790724
+        Variance: 3.165532
+      - Distance: 1.240000
+        RSSI: -32.784788
+        Variance: 3.184054
+      - Distance: 1.245000
+        RSSI: -32.784967
+        Variance: 3.202566
+      - Distance: 1.250000
+        RSSI: -32.791195
+        Variance: 3.221040
+      - Distance: 1.255000
+        RSSI: -32.803405
+        Variance: 3.239445
+      - Distance: 1.260000
+        RSSI: -32.821526
+        Variance: 3.257750
+      - Distance: 1.265000
+        RSSI: -32.845488
+        Variance: 3.275920
+      - Distance: 1.270000
+        RSSI: -32.875218
+        Variance: 3.293916
+      - Distance: 1.275000
+        RSSI: -32.910645
+        Variance: 3.311701
+      - Distance: 1.280000
+        RSSI: -32.951698
+        Variance: 3.329233
+      - Distance: 1.285000
+        RSSI: -32.998308
+        Variance: 3.346469
+      - Distance: 1.290000
+        RSSI: -33.050405
+        Variance: 3.363367
+      - Distance: 1.295000
+        RSSI: -33.107922
+        Variance: 3.379880
+      - Distance: 1.300000
+        RSSI: -33.170794
+        Variance: 3.395963
+      - Distance: 1.305000
+        RSSI: -33.238959
+        Variance: 3.411569
+      - Distance: 1.310000
+        RSSI: -33.312356
+        Variance: 3.426651
+      - Distance: 1.315000
+        RSSI: -33.390928
+        Variance: 3.441162
+      - Distance: 1.320000
+        RSSI: -33.474619
+        Variance: 3.455054
+      - Distance: 1.325000
+        RSSI: -33.563377
+        Variance: 3.468283
+      - Distance: 1.330000
+        RSSI: -33.657154
+        Variance: 3.480801
+      - Distance: 1.335000
+        RSSI: -33.755902
+        Variance: 3.492564
+      - Distance: 1.340000
+        RSSI: -33.859578
+        Variance: 3.503528
+      - Distance: 1.345000
+        RSSI: -33.968140
+        Variance: 3.513653
+      - Distance: 1.350000
+        RSSI: -34.081549
+        Variance: 3.522898
+      - Distance: 1.355000
+        RSSI: -34.199769
+        Variance: 3.531226
+      - Distance: 1.360000
+        RSSI: -34.322763
+        Variance: 3.538602
+      - Distance: 1.365000
+        RSSI: -34.450500
+        Variance: 3.544993
+      - Distance: 1.370000
+        RSSI: -34.582945
+        Variance: 3.550370
+      - Distance: 1.375000
+        RSSI: -34.720068
+        Variance: 3.554708
+      - Distance: 1.380000
+        RSSI: -34.861838
+        Variance: 3.557984
+      - Distance: 1.385000
+        RSSI: -35.008224
+        Variance: 3.560178
+      - Distance: 1.390000
+        RSSI: -35.159195
+        Variance: 3.561276
+      - Distance: 1.395000
+        RSSI: -35.314718
+        Variance: 3.561267
+      - Distance: 1.400000
+        RSSI: -35.474760
+        Variance: 3.560143
+      - Distance: 1.405000
+        RSSI: -35.639287
+        Variance: 3.557903
+      - Distance: 1.410000
+        RSSI: -35.808261
+        Variance: 3.554548
+      - Distance: 1.415000
+        RSSI: -35.981642
+        Variance: 3.550085
+      - Distance: 1.420000
+        RSSI: -36.159389
+        Variance: 3.544523
+      - Distance: 1.425000
+        RSSI: -36.341456
+        Variance: 3.537880
+      - Distance: 1.430000
+        RSSI: -36.527792
+        Variance: 3.530174
+      - Distance: 1.435000
+        RSSI: -36.718345
+        Variance: 3.521430
+      - Distance: 1.440000
+        RSSI: -36.913055
+        Variance: 3.511678
+      - Distance: 1.445000
+        RSSI: -37.111860
+        Variance: 3.500949
+      - Distance: 1.450000
+        RSSI: -37.314691
+        Variance: 3.489283
+      - Distance: 1.455000
+        RSSI: -37.521476
+        Variance: 3.476721
+      - Distance: 1.460000
+        RSSI: -37.732134
+        Variance: 3.463309
+      - Distance: 1.465000
+        RSSI: -37.946581
+        Variance: 3.449096
+      - Distance: 1.470000
+        RSSI: -38.164727
+        Variance: 3.434137
+      - Distance: 1.475000
+        RSSI: -38.386473
+        Variance: 3.418488
+      - Distance: 1.480000
+        RSSI: -38.611716
+        Variance: 3.402209
+      - Distance: 1.485000
+        RSSI: -38.840348
+        Variance: 3.385363
+      - Distance: 1.490000
+        RSSI: -39.072251
+        Variance: 3.368017
+      - Distance: 1.495000
+        RSSI: -39.307306
+        Variance: 3.350238
+      - Distance: 1.500000
+        RSSI: -39.545382
+        Variance: 3.332096
+      - Distance: 1.505000
+        RSSI: -39.786347
+        Variance: 3.313663
+      - Distance: 1.510000
+        RSSI: -40.030059
+        Variance: 3.295014
+      - Distance: 1.515000
+        RSSI: -40.276373
+        Variance: 3.276222
+      - Distance: 1.520000
+        RSSI: -40.525139
+        Variance: 3.257362
+      - Distance: 1.525000
+        RSSI: -40.776198
+        Variance: 3.238511
+      - Distance: 1.530000
+        RSSI: -41.029390
+        Variance: 3.219743
+      - Distance: 1.535000
+        RSSI: -41.284547
+        Variance: 3.201134
+      - Distance: 1.540000
+        RSSI: -41.541500
+        Variance: 3.182759
+      - Distance: 1.545000
+        RSSI: -41.800072
+        Variance: 3.164691
+      - Distance: 1.550000
+        RSSI: -42.060086
+        Variance: 3.147001
+      - Distance: 1.555000
+        RSSI: -42.321358
+        Variance: 3.129760
+      - Distance: 1.560000
+        RSSI: -42.583705
+        Variance: 3.113036
+      - Distance: 1.565000
+        RSSI: -42.846937
+        Variance: 3.096895
+      - Distance: 1.570000
+        RSSI: -43.110866
+        Variance: 3.081398
+      - Distance: 1.575000
+        RSSI: -43.375298
+        Variance: 3.066605
+      - Distance: 1.580000
+        RSSI: -43.640041
+        Variance: 3.052573
+      - Distance: 1.585000
+        RSSI: -43.904901
+        Variance: 3.039353
+      - Distance: 1.590000
+        RSSI: -44.169682
+        Variance: 3.026995
+      - Distance: 1.595000
+        RSSI: -44.434189
+        Variance: 3.015541
+      - Distance: 1.600000
+        RSSI: -44.698227
+        Variance: 3.005032
+      - Distance: 1.605000
+        RSSI: -44.961601
+        Variance: 2.995502
+      - Distance: 1.610000
+        RSSI: -45.224117
+        Variance: 2.986981
+      - Distance: 1.615000
+        RSSI: -45.485583
+        Variance: 2.979495
+      - Distance: 1.620000
+        RSSI: -45.745807
+        Variance: 2.973063
+      - Distance: 1.625000
+        RSSI: -46.004600
+        Variance: 2.967699
+      - Distance: 1.630000
+        RSSI: -46.261773
+        Variance: 2.963413
+      - Distance: 1.635000
+        RSSI: -46.517143
+        Variance: 2.960209
+      - Distance: 1.640000
+        RSSI: -46.770525
+        Variance: 2.958084
+      - Distance: 1.645000
+        RSSI: -47.021740
+        Variance: 2.957031
+      - Distance: 1.650000
+        RSSI: -47.270611
+        Variance: 2.957039
+      - Distance: 1.655000
+        RSSI: -47.516964
+        Variance: 2.958088
+      - Distance: 1.660000
+        RSSI: -47.760628
+        Variance: 2.960155
+      - Distance: 1.665000
+        RSSI: -48.001435
+        Variance: 2.963212
+      - Distance: 1.670000
+        RSSI: -48.239221
+        Variance: 2.967225
+      - Distance: 1.675000
+        RSSI: -48.473826
+        Variance: 2.972155
+      - Distance: 1.680000
+        RSSI: -48.705092
+        Variance: 2.977959
+      - Distance: 1.685000
+        RSSI: -48.932866
+        Variance: 2.984589
+      - Distance: 1.690000
+        RSSI: -49.156999
+        Variance: 2.991991
+      - Distance: 1.695000
+        RSSI: -49.377343
+        Variance: 3.000110
+      - Distance: 1.700000
+        RSSI: -49.593757
+        Variance: 3.008885
+      - Distance: 1.705000
+        RSSI: -49.806101
+        Variance: 3.018251
+      - Distance: 1.710000
+        RSSI: -50.014239
+        Variance: 3.028142
+      - Distance: 1.715000
+        RSSI: -50.218040
+        Variance: 3.038485
+      - Distance: 1.720000
+        RSSI: -50.417375
+        Variance: 3.049209
+      - Distance: 1.725000
+        RSSI: -50.612119
+        Variance: 3.060238
+      - Distance: 1.730000
+        RSSI: -50.802150
+        Variance: 3.071493
+      - Distance: 1.735000
+        RSSI: -50.987350
+        Variance: 3.082895
+      - Distance: 1.740000
+        RSSI: -51.167602
+        Variance: 3.094364
+      - Distance: 1.745000
+        RSSI: -51.342796
+        Variance: 3.105817
+      - Distance: 1.750000
+        RSSI: -51.512821
+        Variance: 3.117173
+      - Distance: 1.755000
+        RSSI: -51.677571
+        Variance: 3.128348
+      - Distance: 1.760000
+        RSSI: -51.836944
+        Variance: 3.139260
+      - Distance: 1.765000
+        RSSI: -51.990838
+        Variance: 3.149827
+      - Distance: 1.770000
+        RSSI: -52.139157
+        Variance: 3.159968
+      - Distance: 1.775000
+        RSSI: -52.281807
+        Variance: 3.169603
+      - Distance: 1.780000
+        RSSI: -52.418694
+        Variance: 3.178653
+      - Distance: 1.785000
+        RSSI: -52.549732
+        Variance: 3.187042
+      - Distance: 1.790000
+        RSSI: -52.674833
+        Variance: 3.194695
+      - Distance: 1.795000
+        RSSI: -52.793914
+        Variance: 3.201541
+      - Distance: 1.800000
+        RSSI: -52.906895
+        Variance: 3.207511
+      - Distance: 1.805000
+        RSSI: -53.013700
+        Variance: 3.212539
+      - Distance: 1.810000
+        RSSI: -53.114253
+        Variance: 3.216564
+      - Distance: 1.815000
+        RSSI: -53.208483
+        Variance: 3.219525
+      - Distance: 1.820000
+        RSSI: -53.296322
+        Variance: 3.221370
+      - Distance: 1.825000
+        RSSI: -53.377706
+        Variance: 3.222047
+      - Distance: 1.830000
+        RSSI: -53.452572
+        Variance: 3.221511
+      - Distance: 1.835000
+        RSSI: -53.520862
+        Variance: 3.219720
+      - Distance: 1.840000
+        RSSI: -53.582522
+        Variance: 3.216638
+      - Distance: 1.845000
+        RSSI: -53.637500
+        Variance: 3.212232
+      - Distance: 1.850000
+        RSSI: -53.685750
+        Variance: 3.206477
+      - Distance: 1.855000
+        RSSI: -53.727227
+        Variance: 3.199351
+      - Distance: 1.860000
+        RSSI: -53.761894
+        Variance: 3.190838
+      - Distance: 1.865000
+        RSSI: -53.789714
+        Variance: 3.180926
+      - Distance: 1.870000
+        RSSI: -53.810657
+        Variance: 3.169609
+      - Distance: 1.875000
+        RSSI: -53.824697
+        Variance: 3.156889
+      - Distance: 1.880000
+        RSSI: -53.831812
+        Variance: 3.142768
+      - Distance: 1.885000
+        RSSI: -53.831986
+        Variance: 3.127258
+      - Distance: 1.890000
+        RSSI: -53.825207
+        Variance: 3.110374
+      - Distance: 1.895000
+        RSSI: -53.811468
+        Variance: 3.092135
+      - Distance: 1.900000
+        RSSI: -53.790769
+        Variance: 3.072569
+      - Distance: 1.905000
+        RSSI: -53.763112
+        Variance: 3.051704
+      - Distance: 1.910000
+        RSSI: -53.728507
+        Variance: 3.029577
+      - Distance: 1.915000
+        RSSI: -53.686970
+        Variance: 3.006226
+      - Distance: 1.920000
+        RSSI: -53.638521
+        Variance: 2.981696
+      - Distance: 1.925000
+        RSSI: -53.583188
+        Variance: 2.956034
+      - Distance: 1.930000
+        RSSI: -53.521002
+        Variance: 2.929294
+      - Distance: 1.935000
+        RSSI: -53.452002
+        Variance: 2.901530
+      - Distance: 1.940000
+        RSSI: -53.376234
+        Variance: 2.872802
+      - Distance: 1.945000
+        RSSI: -53.293748
+        Variance: 2.843173
+      - Distance: 1.950000
+        RSSI: -53.204601
+        Variance: 2.812707
+      - Distance: 1.955000
+        RSSI: -53.108856
+        Variance: 2.781474
+      - Distance: 1.960000
+        RSSI: -53.006583
+        Variance: 2.749543
+      - Distance: 1.965000
+        RSSI: -52.897859
+        Variance: 2.716986
+      - Distance: 1.970000
+        RSSI: -52.782764
+        Variance: 2.683878
+      - Distance: 1.975000
+        RSSI: -52.661388
+        Variance: 2.650295
+      - Distance: 1.980000
+        RSSI: -52.533825
+        Variance: 2.616313
+      - Distance: 1.985000
+        RSSI: -52.400176
+        Variance: 2.582009
+      - Distance: 1.990000
+        RSSI: -52.260548
+        Variance: 2.547461
+      - Distance: 1.995000
+        RSSI: -52.115055
+        Variance: 2.512748
+      - Distance: 2.000000
+        RSSI: -51.963814
+        Variance: 2.477947
+      - Distance: 2.005000
+        RSSI: -51.806952
+        Variance: 2.443135
+      - Distance: 2.010000
+        RSSI: -51.644598
+        Variance: 2.408389
+      - Distance: 2.015000
+        RSSI: -51.476890
+        Variance: 2.373784
+      - Distance: 2.020000
+        RSSI: -51.303969
+        Variance: 2.339395
+      - Distance: 2.025000
+        RSSI: -51.125982
+        Variance: 2.305294
+      - Distance: 2.030000
+        RSSI: -50.943082
+        Variance: 2.271550
+      - Distance: 2.035000
+        RSSI: -50.755427
+        Variance: 2.238233
+      - Distance: 2.040000
+        RSSI: -50.563180
+        Variance: 2.205409
+      - Distance: 2.045000
+        RSSI: -50.366506
+        Variance: 2.173139
+      - Distance: 2.050000
+        RSSI: -50.165578
+        Variance: 2.141485
+      - Distance: 2.055000
+        RSSI: -49.960572
+        Variance: 2.110504
+      - Distance: 2.060000
+        RSSI: -49.751667
+        Variance: 2.080250
+      - Distance: 2.065000
+        RSSI: -49.539046
+        Variance: 2.050773
+      - Distance: 2.070000
+        RSSI: -49.322896
+        Variance: 2.022120
+      - Distance: 2.075000
+        RSSI: -49.103408
+        Variance: 1.994334
+      - Distance: 2.080000
+        RSSI: -48.880774
+        Variance: 1.967454
+      - Distance: 2.085000
+        RSSI: -48.655188
+        Variance: 1.941517
+      - Distance: 2.090000
+        RSSI: -48.426850
+        Variance: 1.916554
+      - Distance: 2.095000
+        RSSI: -48.195957
+        Variance: 1.892591
+      - Distance: 2.100000
+        RSSI: -47.962712
+        Variance: 1.869654
+      - Distance: 2.105000
+        RSSI: -47.727314
+        Variance: 1.847760
+      - Distance: 2.110000
+        RSSI: -47.489969
+        Variance: 1.826925
+      - Distance: 2.115000
+        RSSI: -47.250877
+        Variance: 1.807161
+      - Distance: 2.120000
+        RSSI: -47.010243
+        Variance: 1.788474
+      - Distance: 2.125000
+        RSSI: -46.768269
+        Variance: 1.770869
+      - Distance: 2.130000
+        RSSI: -46.525157
+        Variance: 1.754344
+      - Distance: 2.135000
+        RSSI: -46.281107
+        Variance: 1.738895
+      - Distance: 2.140000
+        RSSI: -46.036319
+        Variance: 1.724514
+      - Distance: 2.145000
+        RSSI: -45.790988
+        Variance: 1.711189
+      - Distance: 2.150000
+        RSSI: -45.545310
+        Variance: 1.698906
+      - Distance: 2.155000
+        RSSI: -45.299475
+        Variance: 1.687646
+      - Distance: 2.160000
+        RSSI: -45.053672
+        Variance: 1.677388
+      - Distance: 2.165000
+        RSSI: -44.808085
+        Variance: 1.668107
+      - Distance: 2.170000
+        RSSI: -44.562895
+        Variance: 1.659777
+      - Distance: 2.175000
+        RSSI: -44.318276
+        Variance: 1.652368
+      - Distance: 2.180000
+        RSSI: -44.074400
+        Variance: 1.645847
+      - Distance: 2.185000
+        RSSI: -43.831433
+        Variance: 1.640181
+      - Distance: 2.190000
+        RSSI: -43.589535
+        Variance: 1.635333
+      - Distance: 2.195000
+        RSSI: -43.348859
+        Variance: 1.631266
+      - Distance: 2.200000
+        RSSI: -43.109555
+        Variance: 1.627940
+      - Distance: 2.205000
+        RSSI: -42.871764
+        Variance: 1.625314
+      - Distance: 2.210000
+        RSSI: -42.635620
+        Variance: 1.623345
+      - Distance: 2.215000
+        RSSI: -42.401254
+        Variance: 1.621992
+      - Distance: 2.220000
+        RSSI: -42.168786
+        Variance: 1.621211
+      - Distance: 2.225000
+        RSSI: -41.938331
+        Variance: 1.620957
+      - Distance: 2.230000
+        RSSI: -41.709996
+        Variance: 1.621186
+      - Distance: 2.235000
+        RSSI: -41.483883
+        Variance: 1.621853
+      - Distance: 2.240000
+        RSSI: -41.260084
+        Variance: 1.622915
+      - Distance: 2.245000
+        RSSI: -41.038686
+        Variance: 1.624326
+      - Distance: 2.250000
+        RSSI: -40.819769
+        Variance: 1.626043
+      - Distance: 2.255000
+        RSSI: -40.603406
+        Variance: 1.628023
+      - Distance: 2.260000
+        RSSI: -40.389663
+        Variance: 1.630224
+      - Distance: 2.265000
+        RSSI: -40.178601
+        Variance: 1.632604
+      - Distance: 2.270000
+        RSSI: -39.970274
+        Variance: 1.635122
+      - Distance: 2.275000
+        RSSI: -39.764733
+        Variance: 1.637740
+      - Distance: 2.280000
+        RSSI: -39.562020
+        Variance: 1.640419
+      - Distance: 2.285000
+        RSSI: -39.362177
+        Variance: 1.643123
+      - Distance: 2.290000
+        RSSI: -39.165238
+        Variance: 1.645817
+      - Distance: 2.295000
+        RSSI: -38.971235
+        Variance: 1.648468
+      - Distance: 2.300000
+        RSSI: -38.780199
+        Variance: 1.651043
+      - Distance: 2.305000
+        RSSI: -38.592155
+        Variance: 1.653514
+      - Distance: 2.310000
+        RSSI: -38.407130
+        Variance: 1.655850
+      - Distance: 2.315000
+        RSSI: -38.225147
+        Variance: 1.658027
+      - Distance: 2.320000
+        RSSI: -38.046231
+        Variance: 1.660020
+      - Distance: 2.325000
+        RSSI: -37.870407
+        Variance: 1.661806
+      - Distance: 2.330000
+        RSSI: -37.697700
+        Variance: 1.663364
+      - Distance: 2.335000
+        RSSI: -37.528137
+        Variance: 1.664675
+      - Distance: 2.340000
+        RSSI: -37.361750
+        Variance: 1.665723
+      - Distance: 2.345000
+        RSSI: -37.198570
+        Variance: 1.666493
+      - Distance: 2.350000
+        RSSI: -37.038636
+        Variance: 1.666971
+      - Distance: 2.355000
+        RSSI: -36.881990
+        Variance: 1.667146
+      - Distance: 2.360000
+        RSSI: -36.728678
+        Variance: 1.667008
+      - Distance: 2.365000
+        RSSI: -36.578753
+        Variance: 1.666550
+      - Distance: 2.370000
+        RSSI: -36.432275
+        Variance: 1.665765
+      - Distance: 2.375000
+        RSSI: -36.289309
+        Variance: 1.664650
+      - Distance: 2.380000
+        RSSI: -36.149929
+        Variance: 1.663201
+      - Distance: 2.385000
+        RSSI: -36.014214
+        Variance: 1.661418
+      - Distance: 2.390000
+        RSSI: -35.882253
+        Variance: 1.659300
+      - Distance: 2.395000
+        RSSI: -35.754142
+        Variance: 1.656851
+      - Distance: 2.400000
+        RSSI: -35.629985
+        Variance: 1.654072
+      - Distance: 2.405000
+        RSSI: -35.509895
+        Variance: 1.650968
+      - Distance: 2.410000
+        RSSI: -35.393992
+        Variance: 1.647546
+      - Distance: 2.415000
+        RSSI: -35.282404
+        Variance: 1.643812
+      - Distance: 2.420000
+        RSSI: -35.175266
+        Variance: 1.639775
+      - Distance: 2.425000
+        RSSI: -35.072722
+        Variance: 1.635444
+      - Distance: 2.430000
+        RSSI: -34.974920
+        Variance: 1.630830
+      - Distance: 2.435000
+        RSSI: -34.882016
+        Variance: 1.625944
+      - Distance: 2.440000
+        RSSI: -34.794172
+        Variance: 1.620798
+      - Distance: 2.445000
+        RSSI: -34.711553
+        Variance: 1.615406
+      - Distance: 2.450000
+        RSSI: -34.634328
+        Variance: 1.609782
+      - Distance: 2.455000
+        RSSI: -34.562671
+        Variance: 1.603941
+      - Distance: 2.460000
+        RSSI: -34.496755
+        Variance: 1.597900
+      - Distance: 2.465000
+        RSSI: -34.436756
+        Variance: 1.591673
+      - Distance: 2.470000
+        RSSI: -34.382849
+        Variance: 1.585280
+      - Distance: 2.475000
+        RSSI: -34.335206
+        Variance: 1.578738
+      - Distance: 2.480000
+        RSSI: -34.293998
+        Variance: 1.572065
+      - Distance: 2.485000
+        RSSI: -34.259390
+        Variance: 1.565282
+      - Distance: 2.490000
+        RSSI: -34.231543
+        Variance: 1.558408
+      - Distance: 2.495000
+        RSSI: -34.210610
+        Variance: 1.551463
+      - Distance: 2.500000
+        RSSI: -34.196735
+        Variance: 1.544469
+      - Distance: 2.505000
+        RSSI: -34.190053
+        Variance: 1.537447
+      - Distance: 2.510000
+        RSSI: -34.190688
+        Variance: 1.530420
+      - Distance: 2.515000
+        RSSI: -34.198751
+        Variance: 1.523411
+      - Distance: 2.520000
+        RSSI: -34.214338
+        Variance: 1.516443
+      - Distance: 2.525000
+        RSSI: -34.237530
+        Variance: 1.509539
+      - Distance: 2.530000
+        RSSI: -34.268394
+        Variance: 1.502724
+      - Distance: 2.535000
+        RSSI: -34.306975
+        Variance: 1.496023
+      - Distance: 2.540000
+        RSSI: -34.353302
+        Variance: 1.489461
+      - Distance: 2.545000
+        RSSI: -34.407385
+        Variance: 1.483063
+      - Distance: 2.550000
+        RSSI: -34.469211
+        Variance: 1.476855
+      - Distance: 2.555000
+        RSSI: -34.538747
+        Variance: 1.470864
+      - Distance: 2.560000
+        RSSI: -34.615938
+        Variance: 1.465115
+      - Distance: 2.565000
+        RSSI: -34.700708
+        Variance: 1.459636
+      - Distance: 2.570000
+        RSSI: -34.792955
+        Variance: 1.454454
+      - Distance: 2.575000
+        RSSI: -34.892557
+        Variance: 1.449594
+      - Distance: 2.580000
+        RSSI: -34.999369
+        Variance: 1.445086
+      - Distance: 2.585000
+        RSSI: -35.113222
+        Variance: 1.440956
+      - Distance: 2.590000
+        RSSI: -35.233927
+        Variance: 1.437230
+      - Distance: 2.595000
+        RSSI: -35.361270
+        Variance: 1.433937
+      - Distance: 2.600000
+        RSSI: -35.495020
+        Variance: 1.431102
+      - Distance: 2.605000
+        RSSI: -35.634922
+        Variance: 1.428752
+      - Distance: 2.610000
+        RSSI: -35.780706
+        Variance: 1.426914
+      - Distance: 2.615000
+        RSSI: -35.932080
+        Variance: 1.425613
+      - Distance: 2.620000
+        RSSI: -36.088740
+        Variance: 1.424873
+      - Distance: 2.625000
+        RSSI: -36.250365
+        Variance: 1.424721
+      - Distance: 2.630000
+        RSSI: -36.416620
+        Variance: 1.425178
+      - Distance: 2.635000
+        RSSI: -36.587160
+        Variance: 1.426268
+      - Distance: 2.640000
+        RSSI: -36.761631
+        Variance: 1.428013
+      - Distance: 2.645000
+        RSSI: -36.939673
+        Variance: 1.430433
+      - Distance: 2.650000
+        RSSI: -37.120917
+        Variance: 1.433548
+      - Distance: 2.655000
+        RSSI: -37.304997
+        Variance: 1.437375
+      - Distance: 2.660000
+        RSSI: -37.491542
+        Variance: 1.441931
+      - Distance: 2.665000
+        RSSI: -37.680185
+        Variance: 1.447231
+      - Distance: 2.670000
+        RSSI: -37.870565
+        Variance: 1.453287
+      - Distance: 2.675000
+        RSSI: -38.062326
+        Variance: 1.460113
+      - Distance: 2.680000
+        RSSI: -38.255122
+        Variance: 1.467716
+      - Distance: 2.685000
+        RSSI: -38.448620
+        Variance: 1.476104
+      - Distance: 2.690000
+        RSSI: -38.642500
+        Variance: 1.485282
+      - Distance: 2.695000
+        RSSI: -38.836459
+        Variance: 1.495254
+      - Distance: 2.700000
+        RSSI: -39.030214
+        Variance: 1.506019
+      - Distance: 2.705000
+        RSSI: -39.223503
+        Variance: 1.517576
+      - Distance: 2.710000
+        RSSI: -39.416085
+        Variance: 1.529920
+      - Distance: 2.715000
+        RSSI: -39.607747
+        Variance: 1.543045
+      - Distance: 2.720000
+        RSSI: -39.798299
+        Variance: 1.556941
+      - Distance: 2.725000
+        RSSI: -39.987584
+        Variance: 1.571595
+      - Distance: 2.730000
+        RSSI: -40.175469
+        Variance: 1.586992
+      - Distance: 2.735000
+        RSSI: -40.361857
+        Variance: 1.603115
+      - Distance: 2.740000
+        RSSI: -40.546679
+        Variance: 1.619943
+      - Distance: 2.745000
+        RSSI: -40.729899
+        Variance: 1.637453
+      - Distance: 2.750000
+        RSSI: -40.911515
+        Variance: 1.655618
+      - Distance: 2.755000
+        RSSI: -41.091556
+        Variance: 1.674410
+      - Distance: 2.760000
+        RSSI: -41.270084
+        Variance: 1.693798
+      - Distance: 2.765000
+        RSSI: -41.447195
+        Variance: 1.713746
+      - Distance: 2.770000
+        RSSI: -41.623016
+        Variance: 1.734219
+      - Distance: 2.775000
+        RSSI: -41.797704
+        Variance: 1.755177
+      - Distance: 2.780000
+        RSSI: -41.971446
+        Variance: 1.776580
+      - Distance: 2.785000
+        RSSI: -42.144459
+        Variance: 1.798381
+      - Distance: 2.790000
+        RSSI: -42.316984
+        Variance: 1.820537
+      - Distance: 2.795000
+        RSSI: -42.489288
+        Variance: 1.842999
+      - Distance: 2.800000
+        RSSI: -42.661663
+        Variance: 1.865716
+      - Distance: 2.805000
+        RSSI: -42.834417
+        Variance: 1.888638
+      - Distance: 2.810000
+        RSSI: -43.007879
+        Variance: 1.911710
+      - Distance: 2.815000
+        RSSI: -43.182391
+        Variance: 1.934879
+      - Distance: 2.820000
+        RSSI: -43.358309
+        Variance: 1.958089
+      - Distance: 2.825000
+        RSSI: -43.535997
+        Variance: 1.981282
+      - Distance: 2.830000
+        RSSI: -43.715825
+        Variance: 2.004402
+      - Distance: 2.835000
+        RSSI: -43.898166
+        Variance: 2.027390
+      - Distance: 2.840000
+        RSSI: -44.083391
+        Variance: 2.050187
+      - Distance: 2.845000
+        RSSI: -44.271867
+        Variance: 2.072735
+      - Distance: 2.850000
+        RSSI: -44.463956
+        Variance: 2.094975
+      - Distance: 2.855000
+        RSSI: -44.660005
+        Variance: 2.116850
+      - Distance: 2.860000
+        RSSI: -44.860350
+        Variance: 2.138300
+      - Distance: 2.865000
+        RSSI: -45.065307
+        Variance: 2.159269
+      - Distance: 2.870000
+        RSSI: -45.275171
+        Variance: 2.179701
+      - Distance: 2.875000
+        RSSI: -45.490214
+        Variance: 2.199541
+      - Distance: 2.880000
+        RSSI: -45.710679
+        Variance: 2.218736
+      - Distance: 2.885000
+        RSSI: -45.936780
+        Variance: 2.237232
+      - Distance: 2.890000
+        RSSI: -46.168699
+        Variance: 2.254982
+      - Distance: 2.895000
+        RSSI: -46.406579
+        Variance: 2.271935
+      - Distance: 2.900000
+        RSSI: -46.650530
+        Variance: 2.288047
+      - Distance: 2.905000
+        RSSI: -46.900618
+        Variance: 2.303274
+      - Distance: 2.910000
+        RSSI: -47.156871
+        Variance: 2.317574
+      - Distance: 2.915000
+        RSSI: -47.419272
+        Variance: 2.330909
+      - Distance: 2.920000
+        RSSI: -47.687761
+        Variance: 2.343245
+      - Distance: 2.925000
+        RSSI: -47.962233
+        Variance: 2.354547
+      - Distance: 2.930000
+        RSSI: -48.242536
+        Variance: 2.364787
+      - Distance: 2.935000
+        RSSI: -48.528475
+        Variance: 2.373939
+      - Distance: 2.940000
+        RSSI: -48.819807
+        Variance: 2.381979
+      - Distance: 2.945000
+        RSSI: -49.116245
+        Variance: 2.388887
+      - Distance: 2.950000
+        RSSI: -49.417458
+        Variance: 2.394648
+      - Distance: 2.955000
+        RSSI: -49.723071
+        Variance: 2.399248
+      - Distance: 2.960000
+        RSSI: -50.032666
+        Variance: 2.402678
+      - Distance: 2.965000
+        RSSI: -50.345788
+        Variance: 2.404931
+      - Distance: 2.970000
+        RSSI: -50.661942
+        Variance: 2.406006
+      - Distance: 2.975000
+        RSSI: -50.980596
+        Variance: 2.405903
+      - Distance: 2.980000
+        RSSI: -51.301186
+        Variance: 2.404627
+      - Distance: 2.985000
+        RSSI: -51.623119
+        Variance: 2.402185
+      - Distance: 2.990000
+        RSSI: -51.945772
+        Variance: 2.398588
+      - Distance: 2.995000
+        RSSI: -52.268500
+        Variance: 2.393850
+      - Distance: 3.000000
+        RSSI: -52.590636
+        Variance: 2.387990
+      - Distance: 3.005000
+        RSSI: -52.911497
+        Variance: 2.381026
+      - Distance: 3.010000
+        RSSI: -53.230387
+        Variance: 2.372984
+      - Distance: 3.015000
+        RSSI: -53.546598
+        Variance: 2.363888
+      - Distance: 3.020000
+        RSSI: -53.859421
+        Variance: 2.353768
+      - Distance: 3.025000
+        RSSI: -54.168142
+        Variance: 2.342654
+      - Distance: 3.030000
+        RSSI: -54.472050
+        Variance: 2.330582
+      - Distance: 3.035000
+        RSSI: -54.770442
+        Variance: 2.317587
+      - Distance: 3.040000
+        RSSI: -55.062625
+        Variance: 2.303707
+      - Distance: 3.045000
+        RSSI: -55.347919
+        Variance: 2.288983
+      - Distance: 3.050000
+        RSSI: -55.625664
+        Variance: 2.273456
+      - Distance: 3.055000
+        RSSI: -55.895220
+        Variance: 2.257170
+      - Distance: 3.060000
+        RSSI: -56.155973
+        Variance: 2.240170
+      - Distance: 3.065000
+        RSSI: -56.407338
+        Variance: 2.222503
+      - Distance: 3.070000
+        RSSI: -56.648761
+        Variance: 2.204216
+      - Distance: 3.075000
+        RSSI: -56.879724
+        Variance: 2.185357
+      - Distance: 3.080000
+        RSSI: -57.099743
+        Variance: 2.165977
+      - Distance: 3.085000
+        RSSI: -57.308376
+        Variance: 2.146124
+      - Distance: 3.090000
+        RSSI: -57.505223
+        Variance: 2.125850
+      - Distance: 3.095000
+        RSSI: -57.689924
+        Variance: 2.105206
+      - Distance: 3.100000
+        RSSI: -57.862169
+        Variance: 2.084242
+      - Distance: 3.105000
+        RSSI: -58.021688
+        Variance: 2.063010
+      - Distance: 3.110000
+        RSSI: -58.168264
+        Variance: 2.041561
+      - Distance: 3.115000
+        RSSI: -58.301721
+        Variance: 2.019946
+      - Distance: 3.120000
+        RSSI: -58.421936
+        Variance: 1.998216
+      - Distance: 3.125000
+        RSSI: -58.528830
+        Variance: 1.976422
+      - Distance: 3.130000
+        RSSI: -58.622373
+        Variance: 1.954613
+      - Distance: 3.135000
+        RSSI: -58.702578
+        Variance: 1.932839
+      - Distance: 3.140000
+        RSSI: -58.769506
+        Variance: 1.911148
+      - Distance: 3.145000
+        RSSI: -58.823260
+        Variance: 1.889589
+      - Distance: 3.150000
+        RSSI: -58.863985
+        Variance: 1.868209
+      - Distance: 3.155000
+        RSSI: -58.891867
+        Variance: 1.847055
+      - Distance: 3.160000
+        RSSI: -58.907130
+        Variance: 1.826171
+      - Distance: 3.165000
+        RSSI: -58.910030
+        Variance: 1.805604
+      - Distance: 3.170000
+        RSSI: -58.900860
+        Variance: 1.785395
+      - Distance: 3.175000
+        RSSI: -58.879941
+        Variance: 1.765588
+      - Distance: 3.180000
+        RSSI: -58.847621
+        Variance: 1.746224
+      - Distance: 3.185000
+        RSSI: -58.804271
+        Variance: 1.727344
+      - Distance: 3.190000
+        RSSI: -58.750286
+        Variance: 1.708987
+      - Distance: 3.195000
+        RSSI: -58.686076
+        Variance: 1.691191
+      - Distance: 3.200000
+        RSSI: -58.612064
+        Variance: 1.673993
+      - Distance: 3.205000
+        RSSI: -58.528687
+        Variance: 1.657430
+      - Distance: 3.210000
+        RSSI: -58.436388
+        Variance: 1.641536
+      - Distance: 3.215000
+        RSSI: -58.335613
+        Variance: 1.626345
+      - Distance: 3.220000
+        RSSI: -58.226811
+        Variance: 1.611888
+      - Distance: 3.225000
+        RSSI: -58.110427
+        Variance: 1.598198
+      - Distance: 3.230000
+        RSSI: -57.986903
+        Variance: 1.585304
+      - Distance: 3.235000
+        RSSI: -57.856670
+        Variance: 1.573236
+      - Distance: 3.240000
+        RSSI: -57.720151
+        Variance: 1.562020
+      - Distance: 3.245000
+        RSSI: -57.577752
+        Variance: 1.551684
+      - Distance: 3.250000
+        RSSI: -57.429867
+        Variance: 1.542252
+      - Distance: 3.255000
+        RSSI: -57.276868
+        Variance: 1.533748
+      - Distance: 3.260000
+        RSSI: -57.119110
+        Variance: 1.526195
+      - Distance: 3.265000
+        RSSI: -56.956924
+        Variance: 1.519614
+      - Distance: 3.270000
+        RSSI: -56.790619
+        Variance: 1.514025
+      - Distance: 3.275000
+        RSSI: -56.620477
+        Variance: 1.509447
+      - Distance: 3.280000
+        RSSI: -56.446758
+        Variance: 1.505896
+      - Distance: 3.285000
+        RSSI: -56.269694
+        Variance: 1.503389
+      - Distance: 3.290000
+        RSSI: -56.089489
+        Variance: 1.501940
+      - Distance: 3.295000
+        RSSI: -55.906321
+        Variance: 1.501561
+      - Distance: 3.300000
+        RSSI: -55.720343
+        Variance: 1.502263
+      - Distance: 3.305000
+        RSSI: -55.531679
+        Variance: 1.504057
+      - Distance: 3.310000
+        RSSI: -55.340428
+        Variance: 1.506949
+      - Distance: 3.315000
+        RSSI: -55.146664
+        Variance: 1.510946
+      - Distance: 3.320000
+        RSSI: -54.950438
+        Variance: 1.516052
+      - Distance: 3.325000
+        RSSI: -54.751776
+        Variance: 1.522269
+      - Distance: 3.330000
+        RSSI: -54.550686
+        Variance: 1.529599
+      - Distance: 3.335000
+        RSSI: -54.347154
+        Variance: 1.538039
+      - Distance: 3.340000
+        RSSI: -54.141148
+        Variance: 1.547587
+      - Distance: 3.345000
+        RSSI: -53.932624
+        Variance: 1.558236
+      - Distance: 3.350000
+        RSSI: -53.721520
+        Variance: 1.569979
+      - Distance: 3.355000
+        RSSI: -53.507765
+        Variance: 1.582807
+      - Distance: 3.360000
+        RSSI: -53.291279
+        Variance: 1.596708
+      - Distance: 3.365000
+        RSSI: -53.071975
+        Variance: 1.611666
+      - Distance: 3.370000
+        RSSI: -52.849762
+        Variance: 1.627667
+      - Distance: 3.375000
+        RSSI: -52.624547
+        Variance: 1.644691
+      - Distance: 3.380000
+        RSSI: -52.396238
+        Variance: 1.662716
+      - Distance: 3.385000
+        RSSI: -52.164745
+        Variance: 1.681721
+      - Distance: 3.390000
+        RSSI: -51.929985
+        Variance: 1.701678
+      - Distance: 3.395000
+        RSSI: -51.691883
+        Variance: 1.722561
+      - Distance: 3.400000
+        RSSI: -51.450371
+        Variance: 1.744338
+      - Distance: 3.405000
+        RSSI: -51.205397
+        Variance: 1.766977
+      - Distance: 3.410000
+        RSSI: -50.956922
+        Variance: 1.790444
+      - Distance: 3.415000
+        RSSI: -50.704920
+        Variance: 1.814700
+      - Distance: 3.420000
+        RSSI: -50.449386
+        Variance: 1.839708
+      - Distance: 3.425000
+        RSSI: -50.190333
+        Variance: 1.865425
+      - Distance: 3.430000
+        RSSI: -49.927794
+        Variance: 1.891808
+      - Distance: 3.435000
+        RSSI: -49.661825
+        Variance: 1.918811
+      - Distance: 3.440000
+        RSSI: -49.392503
+        Variance: 1.946389
+      - Distance: 3.445000
+        RSSI: -49.119929
+        Variance: 1.974491
+      - Distance: 3.450000
+        RSSI: -48.844229
+        Variance: 2.003068
+      - Distance: 3.455000
+        RSSI: -48.565551
+        Variance: 2.032068
+      - Distance: 3.460000
+        RSSI: -48.284068
+        Variance: 2.061436
+      - Distance: 3.465000
+        RSSI: -47.999980
+        Variance: 2.091119
+      - Distance: 3.470000
+        RSSI: -47.713507
+        Variance: 2.121062
+      - Distance: 3.475000
+        RSSI: -47.424894
+        Variance: 2.151207
+      - Distance: 3.480000
+        RSSI: -47.134409
+        Variance: 2.181498
+      - Distance: 3.485000
+        RSSI: -46.842342
+        Variance: 2.211877
+      - Distance: 3.490000
+        RSSI: -46.549003
+        Variance: 2.242286
+      - Distance: 3.495000
+        RSSI: -46.254722
+        Variance: 2.272668
+      - Distance: 3.500000
+        RSSI: -45.959846
+        Variance: 2.302963
+      - Distance: 3.505000
+        RSSI: -45.664739
+        Variance: 2.333115
+      - Distance: 3.510000
+        RSSI: -45.369782
+        Variance: 2.363066
+      - Distance: 3.515000
+        RSSI: -45.075364
+        Variance: 2.392760
+      - Distance: 3.520000
+        RSSI: -44.781890
+        Variance: 2.422141
+      - Distance: 3.525000
+        RSSI: -44.489772
+        Variance: 2.451154
+      - Distance: 3.530000
+        RSSI: -44.199427
+        Variance: 2.479746
+      - Distance: 3.535000
+        RSSI: -43.911281
+        Variance: 2.507865
+      - Distance: 3.540000
+        RSSI: -43.625758
+        Variance: 2.535461
+      - Distance: 3.545000
+        RSSI: -43.343286
+        Variance: 2.562486
+      - Distance: 3.550000
+        RSSI: -43.064291
+        Variance: 2.588893
+      - Distance: 3.555000
+        RSSI: -42.789193
+        Variance: 2.614638
+      - Distance: 3.560000
+        RSSI: -42.518407
+        Variance: 2.639681
+      - Distance: 3.565000
+        RSSI: -42.252340
+        Variance: 2.663981
+      - Distance: 3.570000
+        RSSI: -41.991390
+        Variance: 2.687503
+      - Distance: 3.575000
+        RSSI: -41.735942
+        Variance: 2.710214
+      - Distance: 3.580000
+        RSSI: -41.486367
+        Variance: 2.732082
+      - Distance: 3.585000
+        RSSI: -41.243020
+        Variance: 2.753082
+      - Distance: 3.590000
+        RSSI: -41.006240
+        Variance: 2.773188
+      - Distance: 3.595000
+        RSSI: -40.776346
+        Variance: 2.792380
+      - Distance: 3.600000
+        RSSI: -40.553639
+        Variance: 2.810640
+      - Distance: 3.605000
+        RSSI: -40.338396
+        Variance: 2.827956
+      - Distance: 3.610000
+        RSSI: -40.130874
+        Variance: 2.844316
+      - Distance: 3.615000
+        RSSI: -39.931306
+        Variance: 2.859713
+      - Distance: 3.620000
+        RSSI: -39.739901
+        Variance: 2.874145
+      - Distance: 3.625000
+        RSSI: -39.556843
+        Variance: 2.887611
+      - Distance: 3.630000
+        RSSI: -39.382293
+        Variance: 2.900116
+      - Distance: 3.635000
+        RSSI: -39.216385
+        Variance: 2.911665
+      - Distance: 3.640000
+        RSSI: -39.059229
+        Variance: 2.922271
+      - Distance: 3.645000
+        RSSI: -38.910908
+        Variance: 2.931947
+      - Distance: 3.650000
+        RSSI: -38.771482
+        Variance: 2.940710
+      - Distance: 3.655000
+        RSSI: -38.640986
+        Variance: 2.948580
+      - Distance: 3.660000
+        RSSI: -38.519431
+        Variance: 2.955582
+      - Distance: 3.665000
+        RSSI: -38.406806
+        Variance: 2.961741
+      - Distance: 3.670000
+        RSSI: -38.303074
+        Variance: 2.967087
+      - Distance: 3.675000
+        RSSI: -38.208179
+        Variance: 2.971651
+      - Distance: 3.680000
+        RSSI: -38.122045
+        Variance: 2.975468
+      - Distance: 3.685000
+        RSSI: -38.044575
+        Variance: 2.978574
+      - Distance: 3.690000
+        RSSI: -37.975654
+        Variance: 2.981008
+      - Distance: 3.695000
+        RSSI: -37.915150
+        Variance: 2.982811
+      - Distance: 3.700000
+        RSSI: -37.862916
+        Variance: 2.984024
+      - Distance: 3.705000
+        RSSI: -37.818790
+        Variance: 2.984692
+      - Distance: 3.710000
+        RSSI: -37.782598
+        Variance: 2.984860
+      - Distance: 3.715000
+        RSSI: -37.754153
+        Variance: 2.984573
+      - Distance: 3.720000
+        RSSI: -37.733260
+        Variance: 2.983878
+      - Distance: 3.725000
+        RSSI: -37.719714
+        Variance: 2.982823
+      - Distance: 3.730000
+        RSSI: -37.713305
+        Variance: 2.981456
+      - Distance: 3.735000
+        RSSI: -37.713814
+        Variance: 2.979823
+      - Distance: 3.740000
+        RSSI: -37.721020
+        Variance: 2.977974
+      - Distance: 3.745000
+        RSSI: -37.734701
+        Variance: 2.975955
+      - Distance: 3.750000
+        RSSI: -37.754629
+        Variance: 2.973813
+      - Distance: 3.755000
+        RSSI: -37.780580
+        Variance: 2.971594
+      - Distance: 3.760000
+        RSSI: -37.812328
+        Variance: 2.969343
+      - Distance: 3.765000
+        RSSI: -37.849650
+        Variance: 2.967104
+      - Distance: 3.770000
+        RSSI: -37.892327
+        Variance: 2.964918
+      - Distance: 3.775000
+        RSSI: -37.940143
+        Variance: 2.962828
+      - Distance: 3.780000
+        RSSI: -37.992885
+        Variance: 2.960870
+      - Distance: 3.785000
+        RSSI: -38.050349
+        Variance: 2.959083
+      - Distance: 3.790000
+        RSSI: -38.112335
+        Variance: 2.957500
+      - Distance: 3.795000
+        RSSI: -38.178650
+        Variance: 2.956154
+      - Distance: 3.800000
+        RSSI: -38.249108
+        Variance: 2.955076
+      - Distance: 3.805000
+        RSSI: -38.323531
+        Variance: 2.954292
+      - Distance: 3.810000
+        RSSI: -38.401748
+        Variance: 2.953826
+      - Distance: 3.815000
+        RSSI: -38.483597
+        Variance: 2.953702
+      - Distance: 3.820000
+        RSSI: -38.568922
+        Variance: 2.953938
+      - Distance: 3.825000
+        RSSI: -38.657576
+        Variance: 2.954550
+      - Distance: 3.830000
+        RSSI: -38.749419
+        Variance: 2.955551
+      - Distance: 3.835000
+        RSSI: -38.844321
+        Variance: 2.956952
+      - Distance: 3.840000
+        RSSI: -38.942155
+        Variance: 2.958760
+      - Distance: 3.845000
+        RSSI: -39.042804
+        Variance: 2.960978
+      - Distance: 3.850000
+        RSSI: -39.146155
+        Variance: 2.963609
+      - Distance: 3.855000
+        RSSI: -39.252104
+        Variance: 2.966650
+      - Distance: 3.860000
+        RSSI: -39.360548
+        Variance: 2.970096
+      - Distance: 3.865000
+        RSSI: -39.471391
+        Variance: 2.973940
+      - Distance: 3.870000
+        RSSI: -39.584543
+        Variance: 2.978172
+      - Distance: 3.875000
+        RSSI: -39.699913
+        Variance: 2.982778
+      - Distance: 3.880000
+        RSSI: -39.817416
+        Variance: 2.987743
+      - Distance: 3.885000
+        RSSI: -39.936969
+        Variance: 2.993048
+      - Distance: 3.890000
+        RSSI: -40.058487
+        Variance: 2.998673
+      - Distance: 3.895000
+        RSSI: -40.181890
+        Variance: 3.004595
+      - Distance: 3.900000
+        RSSI: -40.307094
+        Variance: 3.010789
+      - Distance: 3.905000
+        RSSI: -40.434018
+        Variance: 3.017228
+      - Distance: 3.910000
+        RSSI: -40.562576
+        Variance: 3.023884
+      - Distance: 3.915000
+        RSSI: -40.692683
+        Variance: 3.030725
+      - Distance: 3.920000
+        RSSI: -40.824249
+        Variance: 3.037720
+      - Distance: 3.925000
+        RSSI: -40.957183
+        Variance: 3.044837
+      - Distance: 3.930000
+        RSSI: -41.091388
+        Variance: 3.052040
+      - Distance: 3.935000
+        RSSI: -41.226766
+        Variance: 3.059295
+      - Distance: 3.940000
+        RSSI: -41.363212
+        Variance: 3.066566
+      - Distance: 3.945000
+        RSSI: -41.500616
+        Variance: 3.073817
+      - Distance: 3.950000
+        RSSI: -41.638866
+        Variance: 3.081011
+      - Distance: 3.955000
+        RSSI: -41.777842
+        Variance: 3.088111
+      - Distance: 3.960000
+        RSSI: -41.917420
+        Variance: 3.095080
+      - Distance: 3.965000
+        RSSI: -42.057469
+        Variance: 3.101882
+      - Distance: 3.970000
+        RSSI: -42.197855
+        Variance: 3.108481
+      - Distance: 3.975000
+        RSSI: -42.338436
+        Variance: 3.114840
+      - Distance: 3.980000
+        RSSI: -42.479067
+        Variance: 3.120925
+      - Distance: 3.985000
+        RSSI: -42.619596
+        Variance: 3.126703
+      - Distance: 3.990000
+        RSSI: -42.759867
+        Variance: 3.132139
+      - Distance: 3.995000
+        RSSI: -42.899721
+        Variance: 3.137203
+      - Distance: 4.000000
+        RSSI: -43.038992
+        Variance: 3.141863

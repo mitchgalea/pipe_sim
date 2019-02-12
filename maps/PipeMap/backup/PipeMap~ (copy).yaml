@@ -1,0 +1,34 @@
+InitialPose:
+  x: 0.0
+  y: 0.0
+  theta: 0.0
+Diameter: 0.6
+PipeThickness: 0.1
+PipeLineSegments:
+  - radius: 0.0
+    distance: 5.0
+  - radius: -3.8
+    distance: 5.0405
+  - radius: 0.0
+    distance: 3.0
+  - radius: 3.0
+    distance: 10.47198
+  - radius: 1.0
+    distance: 1.74533
+  - radius: -2.0
+    distance: 5.58505
+  - radius: 6.0
+    distance: 5.0
+RFID:
+  - epc: 2479324083105703442
+    distance: 10.000000
+  - epc: 7019550981850809558
+    distance: 12.000000
+  - epc: 207580057185905041
+    distance: 17.000000
+  - epc: 4105391027467079651
+    distance: 25.000000
+  - epc: 7142752016134529323
+    distance: 31.000000
+  - epc: 8547337421551335976
+    distance: 2.000000
